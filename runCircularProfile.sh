@@ -1,4 +1,7 @@
 #!/bin/sh
+#This script will allow you to create the msf file, the profile circularly using 2000 iterations, run the autoscale
+# and then create a new profile and run the verification against the results
+
 #path is where you locate the database for the pfsearch
 path="/home/lhirsh/Downloads/UpdateRepeatsDB/"
 #NAME is the name of your msffile
