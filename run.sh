@@ -1,4 +1,8 @@
 #!/bin/sh
+#!/bin/sh
+#This script will allow you to create the msf file, the profile linearly, run the autoscale
+# and then create a new profile and run the verification against the results
+
 ruta="/home/lhirsh/Downloads/UpdateRepeatsDB/"
 NAME=$1 #alignIV7
 echo $NAME
