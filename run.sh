@@ -3,7 +3,7 @@
 path="/home/lhirsh/Downloads/UpdateRepeatsDB/"
 #NAME is the name of your msffile
 NAME=$1 #alignIV7
-#OUTPUTPATH is the path were the results will be saved and all the input data will be, this includes the blossom45
+#OUTPUTPATH is the path were the results will be saved and all the input data will be, this includes the blosum45
 OUTPUTPATH="/home/lhirsh/Documents/otras/"
 
 pfw N=2000 $NAME".msf"  > "pfw"$NAME.msf
