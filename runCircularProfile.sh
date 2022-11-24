@@ -11,7 +11,7 @@ OUTPUTPATH="/home/lhirsh/Documents/otras/"
 
 pfw N=2000 $NAME".msf"  > "pfw"$NAME.msf
 pfmake -c "pfw"$NAME".msf" "blosum45.cmp" > $NAME".prf"
-pfsearch -f $NAME".prf" $ruta"pdb_seqres.txt" > "searchResults_"$NAME
+pfsearch -f $NAME".prf" $ruta"pdb_seqres.txt" > "searchCircularResults_"$NAME
 /home/lhirsh/Documents/scaling/autoscaling.pl $NAME".prf" > "new"$NAME".prf"
 pfsearch -f "new"$NAME".prf" $path"pdb_seqres.txt" > "autoscalingsearchResults_"$NAME
-python3 Verifyresults.py "searchResults_"$NAME "autoscalingsearchResults_"$NAME $OUTPUTPATH $NAME 
+python3 Verifyresults.py "searchResults_"$NAME "autoscalingsearchCircularResults_"$NAME $OUTPUTPATH $NAME 
