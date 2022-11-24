@@ -3,6 +3,14 @@
 #This script will allow you to create the msf file, the profile linearly, run the autoscale
 # and then create a new profile and run the verification against the results
 
+#path is where you locate the database for the pfsearch
+path="/home/lhirsh/Downloads/UpdateRepeatsDB/"
+#NAME is the name of your msffile
+NAME=$1 #alignIV7
+#OUTPUTPATH is the path were the results will be saved and all the input data will be, this includes the blosum45
+OUTPUTPATH="/home/lhirsh/Documents/otras/"
+
+
 ruta="/home/lhirsh/Downloads/UpdateRepeatsDB/"
 NAME=$1 #alignIV7
 echo $NAME
@@ -11,5 +19,5 @@ pfw N=2000 $NAME".msf"  > "pfw"$NAME.msf
 pfmake -1 "pfw"$NAME".msf" "blosum45.cmp" > $NAME".prf"
 pfsearch -f $NAME".prf" $ruta"pdb_seqres.txt" > "output_ali_"$NAME
 /home/lhirsh/Documents/scaling/autoscaling.pl $NAME".prf" > "new"$NAME".prf"
-pfsearch -f "new"$NAME".prf" $ruta"pdb_seqres.txt" > "outputnew_ali_"$NAME
-python3 Verifyresults.py "output_ali_"$NAME "outputnew_ali_"$NAME "/home/lhirsh/Documents/otras_Linear/" $NAME 
+pfsearch -f "new"$NAME".prf" $path"pdb_seqres.txt" > "outputnew_ali_"$NAME
+python3 Verifyresults.py "output_ali_"$NAME "outputnew_ali_"$NAME $OUTPUTPATH $NAME 
