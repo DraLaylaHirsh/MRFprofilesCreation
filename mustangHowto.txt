@@ -1,0 +1,32 @@
+How to run Mustang
+==================
+Mustang needs the structures that are supposed to be aligned and you need to say which are they.
+
+Create the input file considering that the first line in the file should have the path in where the structures are and it must start with the > symbol
+the next lines should start with the + symbol and be followed by just the name of the file.
+
+So if you want to align the files
+
+
+
+
+that are in the folder 
+
+
+you just need to create a file that can have any extension, we use mus in the example, and it should contain the following text:
+
+
+
+
+
+
+to have the aligned pdbs and fasta in an output called results you need to execute the following command line
+/MUSTANG_v3.2.4/bin/mustang-3.2.4 -f example.mus -F fasta -o results
+
+the program will return two files 
+results.pdb
+results.afasta
+
+To see the results pdb you can use pymol and to see the afasta you can use belvu or seaview.
+
+A zip file is provided for you to try the previous instructions
