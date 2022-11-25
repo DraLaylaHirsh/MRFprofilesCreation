@@ -122,7 +122,7 @@ to have the aligned pdbs and fasta in an output called results you need to execu
 
 the program will return two files :
 
-`resultsTAL_EFFECTOR.pdb < https://github.com/DraLaylaHirsh/MRFprofilesCreation/blob/780e8c5160e553ce8ee3e7b6ca540f47732cbc6e/resultsTAL_EFFECTOR.pdb>`_
+`resultsTAL_EFFECTOR.pdb <https://github.com/DraLaylaHirsh/MRFprofilesCreation/blob/780e8c5160e553ce8ee3e7b6ca540f47732cbc6e/resultsTAL_EFFECTOR.pdb>`_
 
 `resultsTAL_EFFECTOR.afasta <https://github.com/DraLaylaHirsh/MRFprofilesCreation/blob/780e8c5160e553ce8ee3e7b6ca540f47732cbc6e/resultsTAL_EFFECTOR.afasta>`_
 
