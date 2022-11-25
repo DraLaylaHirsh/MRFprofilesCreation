@@ -37,12 +37,4 @@ To do so we use Mustang.
 
     $ sudo apt-get install mustang
     
-Contents
---------
-
-.. toctree::
-
-   Usefulllinks
-   mustangHowto
-   CreationProcess
 
