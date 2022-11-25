@@ -13,110 +13,110 @@ Process
 The steps 1, 2, and 3 are part of an iterative process. 
 In this particular case, we use a cluster of the pdb fragments from the SRUL library and evaluate all the cluster units as following:
 Using TAL_Effector cluster, it contains the following units:
- 4cj9A_490_522_reg1
+4cj9A_490_522_reg1
   
- 2ypfA_301_335_reg1
+2ypfA_301_335_reg1
   
- 4gg4A_607_640_reg1
+4gg4A_607_640_reg1
   
- 2ypfA_471_505_reg1
+2ypfA_471_505_reg1
   
- 4cj9A_457_489_reg1
+4cj9A_457_489_reg1
   
- 4hpzA_301_334_reg1
+4hpzA_301_334_reg1
   
- 4cj9A_589_621_reg1
+4cj9A_589_621_reg1
   
- 4cj9A_688_720_reg1
+4cj9A_688_720_reg1
   
- 4cj9A_193_225_reg1
+4cj9A_193_225_reg1
   
- 2ypfA_369_402_reg1
+2ypfA_369_402_reg1
   
- 4cj9A_424_456_reg1
+4cj9A_424_456_reg1
   
- 4hpzA_539_573_reg1
+4hpzA_539_573_reg1
   
- 4gg4A_403_436_reg1
+4gg4A_403_436_reg1
   
- 4cj9A_325_357_reg1
+4cj9A_325_357_reg1
   
- 4hpzA_437_470_reg1
+4hpzA_437_470_reg1
   
- 4cj9A_523_555_reg1
+4cj9A_523_555_reg1
   
- 2ypfA_811_844_reg1
+2ypfA_811_844_reg1
   
- 4gg4A_573_606_reg1
+4gg4A_573_606_reg1
   
- 4gg4A_369_402_reg1
+4gg4A_369_402_reg1
   
- 4hpzA_403_436_reg1
+4hpzA_403_436_reg1
   
- 4hpzA_335_368_reg1
+4hpzA_335_368_reg1
   
- 2ypfA_506_538_reg1
+2ypfA_506_538_reg1
   
- 4cj9A_622_654_reg1
+4cj9A_622_654_reg1
   
- 2ypfA_539_572_reg1
+2ypfA_539_572_reg1
   
- 4cj9A_226_258_reg1
+4cj9A_226_258_reg1
 
 so, the first step is done, then we need to create the .mus file by using the following text, 
 assuming that the fragments (or the SRUL folder is in /home/mypc/SRUL/) and saving it with the name TAL_EFFECTOR.mus:
 
- >/home/mypc/SRUL/
+>/home/mypc/SRUL/
   
- +4cj9A_490_522_reg1
++4cj9A_490_522_reg1
   
- +2ypfA_301_335_reg1
++2ypfA_301_335_reg1
   
- +4gg4A_607_640_reg1
++4gg4A_607_640_reg1
   
- +2ypfA_471_505_reg1
++2ypfA_471_505_reg1
   
- +4cj9A_457_489_reg1
++4cj9A_457_489_reg1
   
- +4hpzA_301_334_reg1
++4hpzA_301_334_reg1
   
- +4cj9A_589_621_reg1
++4cj9A_589_621_reg1
   
- +4cj9A_688_720_reg1
++4cj9A_688_720_reg1
  
- +4cj9A_193_225_reg1
++4cj9A_193_225_reg1
   
- +2ypfA_369_402_reg1
++2ypfA_369_402_reg1
   
- +4cj9A_424_456_reg1
++4cj9A_424_456_reg1
   
- +4hpzA_539_573_reg1
++4hpzA_539_573_reg1
   
- +4gg4A_403_436_reg1
++4gg4A_403_436_reg1
   
- +4cj9A_325_357_reg1
++4cj9A_325_357_reg1
   
- +4hpzA_437_470_reg1
++4hpzA_437_470_reg1
  
- +4cj9A_523_555_reg1
++4cj9A_523_555_reg1
   
- +2ypfA_811_844_reg1
++2ypfA_811_844_reg1
   
- +4gg4A_573_606_reg1
++4gg4A_573_606_reg1
   
- +4gg4A_369_402_reg1
++4gg4A_369_402_reg1
   
- +4hpzA_403_436_reg1
++4hpzA_403_436_reg1
   
- +4hpzA_335_368_reg1
++4hpzA_335_368_reg1
   
- +2ypfA_506_538_reg1
++2ypfA_506_538_reg1
   
- +4cj9A_622_654_reg1
++4cj9A_622_654_reg1
   
- +2ypfA_539_572_reg1
++2ypfA_539_572_reg1
   
- +4cj9A_226_258_reg1
++4cj9A_226_258_reg1
 
 Finally, the step 3 would be done by running the following command, assuming that the mustang app is in the path 
 /home/mypc/MUSTANG_v3.2.4/bin/mustang-3.2.4 and that our two output files (afasta and pdb) will have the name resultsTAL_EFFECTOR but a different extension
