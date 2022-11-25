@@ -81,15 +81,7 @@ the results.
 Once you have a sequence alignment that you consider is correct, you need to decide if you want a circular or a linear profile. In case you want a circular 
 profile just save the alignment as a msf, if you want a linear profile you need to make a copy of the sequence alignment and put them together. 
 You can see the example files (this examples are based on the raw results from mustang).  
-Contents
---------
 
-.. toctree::
-
-   Usefulllinks
-   Requirements
-   mustangHowto
-   CreationProcess
 
 
 
