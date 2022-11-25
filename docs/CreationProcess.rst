@@ -4,7 +4,7 @@ Usage
 .. _Process:
 
 Process
---------
+-------
 
 .. image:: /images/CreationProcess.svg
 
@@ -159,3 +159,11 @@ To run the scripts you can use one of the following commands:
   $./runCircularProfile.sh TAL_EFFECTOR
 
 
+.. _Results:
+
+Results
+-------
+
+.. image:: /images/superimpColor.png
+
+.. image:: /images/superimposition.png
