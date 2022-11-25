@@ -1,9 +1,11 @@
 How to run Mustang
 ==================
-Mustang needs the structures that are supposed to be aligned and you need to say which are they.
 
-Create the input file considering that the first line in the file should have the path in where the structures are and it must start with the > symbol
-the next lines should start with the + symbol and be followed by just the name of the file.
+Mustang superimposes protein structures and as a result you can get not only the structure alignment but also the sequence alignment.
+
+This program needs the structures that are going to be superimposed, their name and the path in where they are allocated.
+
+Create the input file considering that the first line of the file should have the path in where the structures are allocated and it must start with the > symbol the next lines should start with the + symbol and be followed by just the name of the structure files.
 
 So if you want to align the files
   4cj9A_490_522_reg1
@@ -57,10 +59,10 @@ So if you want to align the files
   4cj9A_226_258_reg1
 
 
-that are in the folder 
+that are allocated in the folder 
   /home/mypc/SRUL/
 
-you just need to create a file that can have any extension, we use mus in the example, and it should contain the following text:
+you just need to create a file, we use mus as the file extension in the example, but it could be any, and it should contain the following text:
   
 >/home/mypc/SRUL/
   
@@ -114,7 +116,12 @@ you just need to create a file that can have any extension, we use mus in the ex
   
 +4cj9A_226_258_reg1
 
+You can download the mus file here :doc:`TAL_EFFECTOR.mus` you can download the fragments structures here :doc:`SRUL.tar.gz` 
+
 to have the aligned pdbs and fasta in an output called results you need to execute the following command line
+
+.. code-block:: runmustang
+
 /MUSTANG_v3.2.4/bin/mustang-3.2.4 -f example.mus -F fasta -o results
 
 the program will return two files 
