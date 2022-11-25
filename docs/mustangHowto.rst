@@ -112,7 +112,7 @@ that are allocated in the folder   /home/mypc/SRUL/  you just need to create a f
   
 +4cj9A_226_258_reg1
 
-You can download the mus file here :ref:`https://github.com/DraLaylaHirsh/MRFprofilesCreation/blob/627d070fc6ef00be29a6e3c374014c736aefb8c3/docs/TAL_EFFECTOR.mus` you can download the fragments structures here :doc:`SRUL.tar.gz` 
+You can download the mus file  `here <https://github.com/DraLaylaHirsh/MRFprofilesCreation/blob/fee5c18e268941d3cec22cf4da90faca4a185fc7/docs/TAL_EFFECTOR.mus>`_, you can download the fragments structures here :doc:`SRUL.tar.gz` 
 
 to have the aligned pdbs and fasta in an output called results you need to execute the following command line
 
