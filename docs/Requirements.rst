@@ -1,5 +1,8 @@
 Requirements
 ===================================
+.. _instructions:
+Instructions
+------------
 The created profiles are build circularly and linearly, and they can be use to search matches in different databases, 
 to do so, pftools is used the fortran source code.
 
