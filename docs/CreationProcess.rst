@@ -152,10 +152,10 @@ To run the scripts you can use one of the following commands:
 
 .. code-block:: RunLinear
 
-$./runLinearProfile.sh TAL_EFFECTORLinear
+  $./runLinearProfile.sh TAL_EFFECTORLinear
 
 .. code-block:: RunCircular
 
-$./runCircularProfile.sh TAL_EFFECTOR
+  $./runCircularProfile.sh TAL_EFFECTOR
 
 
