@@ -6,7 +6,8 @@ Usage
 Process
 --------
 
-..image::/images/CreationProcess.svg
+.. image::/images/CreationProcess.svg
+
 .. code-block:: cmake
 
    include("abc.cmake")
