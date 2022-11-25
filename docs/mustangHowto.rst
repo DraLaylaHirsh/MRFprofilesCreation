@@ -132,5 +132,4 @@ Contents
 
    Usefulllinks
    Requirements
-   mustangHowto
    CreationProcess
