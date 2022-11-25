@@ -129,6 +129,22 @@ Finally, the step 3 would be done by running the following command, assuming tha
 At this point we can see the outputs using belvu/seaview and pymol/vmd/chimera and should work on the sequence alignment to create the profile. In this
 process we could realiced that some of the units are wrongly alined so we could identify the units, erase then from the mus file, rerun mustang and reevaluate the results.
 
+.. _Mustang Results:
+
+Mustang Results
+---------------
+
+.. image:: /images/MSA.png
+
+.. image:: /images/superimpColor.png
+
+.. image:: /images/superimposition.png
+
+.. _Profile Creation:
+
+Profile creation
+----------------
+
 Once we have a sequence alignment that consider as correct, we need to decide if we will use circular or a linear profile. In case you want a circular 
 profile just save the alignment as a msf, if you want a linear profile you need to make a copy of the sequence alignment and put them together as many times as needed. 
 
@@ -158,14 +174,14 @@ To run the scripts you can use one of the following commands:
 
   $./runCircularProfile.sh TAL_EFFECTOR
 
+.. _Linear Results:
 
-.. _Results:
+Linear Results
+---------------
 
-Results
--------
 
-.. image:: /images/MSA.png
 
-.. image:: /images/superimpColor.png
+.. _Circular Results:
 
-.. image:: /images/superimposition.png
+Circular Results
+---------------
