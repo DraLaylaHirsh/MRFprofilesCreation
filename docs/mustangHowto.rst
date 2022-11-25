@@ -7,7 +7,6 @@ the next lines should start with the + symbol and be followed by just the name o
 
 So if you want to align the files
   4cj9A_490_522_reg1
-  
   2ypfA_301_335_reg1
   
   4gg4A_607_640_reg1
