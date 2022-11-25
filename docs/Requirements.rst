@@ -23,6 +23,7 @@ Edit the autoscaling.pl file and complete the $dbpath with the complete path whe
 For example, if the downloaded folder is in /home/mypc/Documents/ you will have
    
 .. code-block:: SetPath
+
    $dbpath="/home/mypc/Documents/scaling/";
 
 There are also some python scripts created to verify the profiles results, and verify if all the sequences used in the profile were 
@@ -31,12 +32,14 @@ retrieve, so you will also need python
 To install python you can do simply:
 
 .. code-block:: InstallPython
+
     $ sudo apt-get install python
     
 Finally, to create the initial profiles we use clusters and structural alignments and its corresponding sequence alignments. 
 To do so we use Mustang.
 
 .. code-block:: InstallMustang
+    
     $ sudo apt-get install mustang
     
 
