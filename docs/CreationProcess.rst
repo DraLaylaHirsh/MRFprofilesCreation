@@ -133,10 +133,15 @@ process we could realiced that some of the units are wrongly alined so we could 
 
 Mustang Results
 ---------------
+The sequence alignment given by mustang and using belvu would be observed as following:
 
 .. image:: /images/MSA.png
 
+The structure alignment given by mustang and using pymol as ribbon would be observed as following:
+
 .. image:: /images/superimpColor.png
+
+The structure alignment given by mustang and using pymol as sticks would be observed as following:
 
 .. image:: /images/superimposition.png
 
