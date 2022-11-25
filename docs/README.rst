@@ -1,5 +1,5 @@
-MRFprofilesCreation
-===================
+MRF profiles creation
+=====================
 
 This development space aim is to present all the process followed to create a profile using RepeatsDB structural information.
 All the requerements and the installing instructions are explained in Requirements.txt  
