@@ -71,7 +71,7 @@ Finally, the step 3 would be done by running the following command, assuming tha
 /home/mypc/MUSTANG_v3.2.4/bin/mustang-3.2.4 and that our two output files (afasta and pdb) will have the name resultsTAL_EFFECTOR but a different extension
   
   .. code-block:: MustangRun
-  (/home/mypc/MUSTANG_v3.2.4/bin/mustang-3.2.4 -f TAL_EFFECTOR.mus -F fasta -o resultsTAL_EFFECTOR)
+  $/home/mypc/MUSTANG_v3.2.4/bin/mustang-3.2.4 -f TAL_EFFECTOR.mus -F fasta -o resultsTAL_EFFECTOR
 
 At this point we can see the outputs using belvu/seaview and pymol/vmd/chimera and should work on the sequence alignment to create the profile. In this
 process we could realiced that some of the units are wrongly alined so we could identify the unit, erase it from the mus file, rerun mustang and reevaluate 
