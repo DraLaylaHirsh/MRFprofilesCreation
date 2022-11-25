@@ -8,9 +8,7 @@ Process
 
 .. image::/images/CreationProcess.svg
 
-.. code-block:: cmake
 
-   include("abc.cmake")
 
 The steps 1, 2, and 3 are part of an iterative process. 
 In this particular case, we use a cluster of the pdb fragments from the SRUL library and evaluate all the cluster units as following:
@@ -72,6 +70,8 @@ assuming that the fragments (or the SRUL folder is in /home/mypc/SRUL/) and savi
 Finally, the step 3 would be done by running the following command, assuming that the mustang app is in the path 
 /home/mypc/MUSTANG_v3.2.4/bin/mustang-3.2.4 and that our two output files (afasta and pdb) will have the name resultsTAL_EFFECTOR but a different extension
   
+  .. code-block:: MustangRun
+
   /home/mypc/MUSTANG_v3.2.4/bin/mustang-3.2.4 -f TAL_EFFECTOR.mus -F fasta -o resultsTAL_EFFECTOR
 
 At this point we can see the outputs using belvu/seaview and pymol/vmd/chimera and should work on the sequence alignment to create the profile. In this
