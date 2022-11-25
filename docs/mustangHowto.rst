@@ -125,11 +125,3 @@ To see the results pdb you can use pymol and to see the afasta you can use belvu
 
 A zip file is provided for you to try the previous instructions
 
-Contents
---------
-
-.. toctree::
-
-   Usefulllinks
-   Requirements
-   CreationProcess
