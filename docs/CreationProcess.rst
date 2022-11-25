@@ -6,7 +6,7 @@ Usage
 Process
 --------
 
-.. image::/images/CreationProcess.svg
+.. image:: /images/CreationProcess.svg
 
 
 
