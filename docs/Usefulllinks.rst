@@ -15,11 +15,3 @@ You can download the complete pdb or just download the pdb_seqres file from:
 
 https://ftp.wwpdb.org/pub/pdb/derived_data/pdb_seqres.txt.gz
   
-Contents
---------
-
-.. toctree::
-
-   Requirements
-   mustangHowto
-   CreationProcess
