@@ -22,3 +22,4 @@ Contents
    Requirements
    mustangHowto
    CreationProcess
+   README
