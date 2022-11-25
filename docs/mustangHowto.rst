@@ -118,13 +118,15 @@ to have the aligned pdbs and fasta in an output called results you need to execu
 
 .. code-block:: runmustang
 
-/MUSTANG_v3.2.4/bin/mustang-3.2.4 -f example.mus -F fasta -o results
+  /MUSTANG_v3.2.4/bin/mustang-3.2.4 -f example.mus -F fasta -o resultsTAL_EFFECTOR
 
-the program will return two files 
-results.pdb
-results.afasta
+the program will return two files :
+
+`resultsTAL_EFFECTOR.pdb < https://github.com/DraLaylaHirsh/MRFprofilesCreation/blob/780e8c5160e553ce8ee3e7b6ca540f47732cbc6e/resultsTAL_EFFECTOR.pdb>`_
+
+`resultsTAL_EFFECTOR.afasta <https://github.com/DraLaylaHirsh/MRFprofilesCreation/blob/780e8c5160e553ce8ee3e7b6ca540f47732cbc6e/resultsTAL_EFFECTOR.afasta>`_
 
 To see the results pdb you can use pymol and to see the afasta you can use belvu or seaview.
 
-A zip file is provided for you to try the previous instructions
+
 
