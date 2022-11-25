@@ -58,11 +58,7 @@ So if you want to align the files
   
   4cj9A_226_258_reg1
 
-
-that are allocated in the folder 
-  /home/mypc/SRUL/
-
-you just need to create a file, we use mus as the file extension in the example, but it could be any, and it should contain the following text:
+that are allocated in the folder   /home/mypc/SRUL/  you just need to create a file, we use mus as the file extension in the example, but it could be any, and it should contain the following text:
   
 >/home/mypc/SRUL/
   
