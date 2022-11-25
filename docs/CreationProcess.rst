@@ -13,6 +13,7 @@ Process
 The steps 1, 2, and 3 are part of an iterative process. 
 In this particular case, we use a cluster of the pdb fragments from the SRUL library and evaluate all the cluster units as following:
 Using TAL_Effector cluster, it contains the following units:
+
 4cj9A_490_522_reg1
   
 2ypfA_301_335_reg1
@@ -119,16 +120,28 @@ assuming that the fragments (or the SRUL folder is in /home/mypc/SRUL/) and savi
 +4cj9A_226_258_reg1
 
 Finally, the step 3 would be done by running the following command, assuming that the mustang app is in the path 
-/home/mypc/MUSTANG_v3.2.4/bin/mustang-3.2.4 and that our two output files (afasta and pdb) will have the name resultsTAL_EFFECTOR but a different extension
+/home/mypc/MUSTANG_v3.2.4/bin/mustang-3.2.4 and that our two output files (afasta and pdb) will have the name resultsTAL_EFFECTOR but with a different extension.
   
 .. code-block:: MustangRun
   
   $/home/mypc/MUSTANG_v3.2.4/bin/mustang-3.2.4 -f TAL_EFFECTOR.mus -F fasta -o resultsTAL_EFFECTOR
 
 At this point we can see the outputs using belvu/seaview and pymol/vmd/chimera and should work on the sequence alignment to create the profile. In this
-process we could realiced that some of the units are wrongly alined so we could identify the unit, erase it from the mus file, rerun mustang and reevaluate 
-the results.
+process we could realiced that some of the units are wrongly alined so we could identify the units, erase then from the mus file, rerun mustang and reevaluate the results.
 
-Once you have a sequence alignment that you consider is correct, you need to decide if you want a circular or a linear profile. In case you want a circular 
-profile just save the alignment as a msf, if you want a linear profile you need to make a copy of the sequence alignment and put them together. 
+Once we have a sequence alignment that consider as correct, we need to decide if we will use circular or a linear profile. In case you want a circular 
+profile just save the alignment as a msf, if you want a linear profile you need to make a copy of the sequence alignment and put them together as many times as needed. 
+
 You can see the example files (this examples are based on the raw results from mustang).  
+
+`Linear msf file <https://github.com/DraLaylaHirsh/MRFprofilesCreation/blob/780e8c5160e553ce8ee3e7b6ca540f47732cbc6e/TAL_EFFECTORLinear.msf>`_
+`Circular msf file <https://github.com/DraLaylaHirsh/MRFprofilesCreation/blob/780e8c5160e553ce8ee3e7b6ca540f47732cbc6e/TAL_EFFECTOR.msf>`_.
+
+Then you can download the following scripts to create the profiles, search and compare the results.
+`Circular script file <https://github.com/DraLaylaHirsh/MRFprofilesCreation/blob/780e8c5160e553ce8ee3e7b6ca540f47732cbc6e/runCircularProfile.sh>`_.
+`Linear script file <https://github.com/DraLaylaHirsh/MRFprofilesCreation/blob/780e8c5160e553ce8ee3e7b6ca540f47732cbc6e/runLinearProfile.sh>`_.
+
+You will also need to download the python script to be able to compare the results with and without scaling:
+`Python script for comparison <https://github.com/DraLaylaHirsh/MRFprofilesCreation/blob/780e8c5160e553ce8ee3e7b6ca540f47732cbc6e/VerifyresultsAgainstRepeatsDB.py>`_.
+
+
