@@ -164,6 +164,8 @@ To run the scripts you can use one of the following commands:
 Results
 -------
 
+.. image:: /images/MSA.png
+
 .. image:: /images/superimpColor.png
 
 .. image:: /images/superimposition.png
