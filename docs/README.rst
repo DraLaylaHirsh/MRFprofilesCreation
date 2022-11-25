@@ -9,16 +9,3 @@ To evaluate the profile a database for the pfsearch will be needed, you could us
 The fragments SRUL library, the db files from RepeatsDB, the scaling files are in the following link:
 
 Once you download all the files and install the requerements, you can go to CreationProcess.txt and follow the steps.
-
-
-
-Contents
---------
-
-.. toctree::
-
-   Usefulllinks
-   Requirements
-   mustangHowto
-   CreationProcess
-
