@@ -6,6 +6,11 @@ Usage
 Process
 --------
 
+..image::/images/CreationProcess.svg
+.. code-block:: cmake
+
+   include("abc.cmake")
+
 The steps 1, 2, and 3 are part of an iterative process. 
 In this particular case, we use a cluster of the pdb fragments from the SRUL library and evaluate all the cluster units as following:
 Using TAL_Effector cluster, it contains the following units:
