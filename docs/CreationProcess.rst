@@ -135,13 +135,17 @@ profile just save the alignment as a msf, if you want a linear profile you need 
 You can see the example files (this examples are based on the raw results from mustang).  
 
 `Linear msf file <https://github.com/DraLaylaHirsh/MRFprofilesCreation/blob/780e8c5160e553ce8ee3e7b6ca540f47732cbc6e/TAL_EFFECTORLinear.msf>`_
+
 `Circular msf file <https://github.com/DraLaylaHirsh/MRFprofilesCreation/blob/780e8c5160e553ce8ee3e7b6ca540f47732cbc6e/TAL_EFFECTOR.msf>`_.
 
 Then you can download the following scripts to create the profiles, search and compare the results.
+
 `Circular script file <https://github.com/DraLaylaHirsh/MRFprofilesCreation/blob/780e8c5160e553ce8ee3e7b6ca540f47732cbc6e/runCircularProfile.sh>`_.
+
 `Linear script file <https://github.com/DraLaylaHirsh/MRFprofilesCreation/blob/780e8c5160e553ce8ee3e7b6ca540f47732cbc6e/runLinearProfile.sh>`_.
 
 You will also need to download the python script to be able to compare the results with and without scaling:
-`Python script for comparison <https://github.com/DraLaylaHirsh/MRFprofilesCreation/blob/780e8c5160e553ce8ee3e7b6ca540f47732cbc6e/VerifyresultsAgainstRepeatsDB.py>`_.
+`Python script for comparison 
+<https://github.com/DraLaylaHirsh/MRFprofilesCreation/blob/780e8c5160e553ce8ee3e7b6ca540f47732cbc6e/VerifyresultsAgainstRepeatsDB.py>`_.
 
 
