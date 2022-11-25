@@ -148,4 +148,14 @@ You will also need to download the python script to be able to compare the resul
 `Python script for comparison 
 <https://github.com/DraLaylaHirsh/MRFprofilesCreation/blob/780e8c5160e553ce8ee3e7b6ca540f47732cbc6e/VerifyresultsAgainstRepeatsDB.py>`_.
 
+To run the scripts you can use one of the following commands:
+
+.. code-block:: RunLinear
+
+$./runLinearProfile.sh TAL_EFFECTORLinear
+
+.. code-block:: RunCircular
+
+$./runCircularProfile.sh TAL_EFFECTOR
+
 
