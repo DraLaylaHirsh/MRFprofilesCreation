@@ -52,6 +52,10 @@ Creating a profile
 References
 **********
 
+.. toctree::
+
+   references
+
 .. target-notes::
 
 .. _`Sphinx`: http://sphinx.pocoo.org
