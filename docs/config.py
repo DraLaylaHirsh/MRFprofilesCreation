@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'CreationMRFprofiles'
-copyright = '2022, Layla Hirsh'
-author = 'Layla Hirsh'
+project = u'CreationMRFprofiles'
+copyright = u'2022, Layla Hirsh'
+author = u'Layla Hirsh'
 
 name = "CreationMRFprofiles"
 authors = [{name = "Layla Hirsh", email = "lhirsh@pucp.edu.pe"}]
