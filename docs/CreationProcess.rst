@@ -200,40 +200,27 @@ After running the script you will have the following files:
 .. code-block::
 
   The output of the verification tells you:
-  
   The profile retrieve 68 protein chains in the search
-  
   The missing proteins to retrieve are: []
-  
   The scaling profile retrieve 72 protein chains in the search
-  
   The missing proteins to retrieve are: []
-  
   These are the new findings to verify:
-  
   These are the new findings to verify all the details:
-  
   ('26.137', '2ypf_A', 'AVRBS3')
-  
   ('26.695', '3ugm_A', 'TAL effector AvrBs3/PthA')
-  
   ('26.407', '3v6p_A', 'dHax3')
-  
   ('28.563', '4cj9_A', 'BURRH')
-  
   ('26.277', '4gg4_A', 'Hax3')
-  
   ('26.537', '4hpz_A', 'dTale2')
-  
   ('26.063', '6jtq_A', 'TAL effector')
   
-
 In the output you can observe that the profile without the autoscaling retrieves 68 protein chains, and they include the ones used in the profile. Then, considering the autoscaling profile 72 protein chains were retrieved, and again they include the ones used in the profile. Finally a list of the new protein chains found using the autoscaling profiles is shown.
 
 .. _Circular Results:
 
 Circular Results
 ---------------
+After running the script you will have the following files:
 
 .. code-block::
 
