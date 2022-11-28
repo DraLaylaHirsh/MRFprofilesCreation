@@ -1,3 +1,49 @@
+######################
+**Welcome to YARSAW!**
+######################
+
+YARSAW is an open source, free and easy to use API Wrapper for the `Random Stuff API`_.
+
+
+***************
+Overview
+***************
+
+Features:
+
+* Wraps all of the `Random Stuff API <https://api-info.pgamerx.com>`_
+* Async-ready
+* Easy to use
+* Saves you a lot of time
+
+*****************
+Installation
+*****************
+
+To install the latest stable version of YARSAW, run the following command:
+
+.. code-block:: bash
+
+      python -m pip install yarsaw
+
+To install a specific version of YARSAW, run the following command:
+
+.. code-block:: bash
+
+      python -m pip install yarsaw==<version>
+
+To install the beta version of YARSAW, run the following command:
+
+.. code-block:: bash
+
+      python -m pip install git+https://github.com/BruceCodesGithub/yarsaw --upgrade
+
+
+
+****************
+Getting Started
+****************
+
 Welcome to MRFprofiles Creation
 ===============================
 
