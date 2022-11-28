@@ -6,6 +6,10 @@ project = 'CreationMRFprofiles'
 copyright = '2022, Layla Hirsh'
 author = 'Layla Hirsh'
 
+name = "CreationMRFprofiles"
+authors = [{name = "Layla Hirsh", email = "lhirsh@pucp.edu.pe"}]
+dynamic = ["version", "description"]
+
 release = '0.1'
 version = '0.1.0'
 
