@@ -9,3 +9,7 @@ From RCSB PDB databank you can download the pdb_seqres file that contains all th
 :code::
   https://ftp.wwpdb.org/pub/pdb/derived_data/pdb_seqres.txt.gz
   
+RepeatsDB is a database of repeat protein structures, you can download all the uniprot sequences in the database using the following link:   
+:code::  
+  https://dev.repeatsdb.org/api/findAll?show=uniprot
+  
