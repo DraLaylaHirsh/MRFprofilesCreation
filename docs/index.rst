@@ -7,9 +7,6 @@ Welcome to MRFprofiles Creation
 Introduction
 ************
 
-Introduction
-============
-
 Profiles can help to identify different types of proteins in a particular data base.
 
 In this case we present the process for the creation of repeat proteins, to do so, some programs, datasets, and scripts are needed.
