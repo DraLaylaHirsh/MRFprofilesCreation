@@ -7,6 +7,7 @@ Process
 -------
 
 .. image:: /images/CreationProcess.png
+    
     :alt: A description
 
 The steps 1, 2, and 3 are part of an iterative process. 
