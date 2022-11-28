@@ -10,14 +10,9 @@ NAME=$1 #alignIV7
 #OUTPUTPATH is the path were the results will be saved and all the input data will be, this includes the blosum45
 OUTPUTPATH="/home/mypc/Documents/"
 
-
-ruta="/home/mypc/Downloads/"
-NAME=$1 #alignIV7
-echo $NAME
-
 pfw N=2000 $NAME".msf"  > "pfw"$NAME.msf
 pfmake -1 "pfw"$NAME".msf" "blosum45.cmp" > $NAME".prf"
-pfsearch -f $NAME".prf" $ruta"pdb_seqres.txt" > "searchLinearResults"$NAME
+pfsearch -f $NAME".prf" $path"pdb_seqres.txt" > "searchLinearResults"$NAME
 /home/lhirsh/Documents/scaling/autoscaling.pl $NAME".prf" > "new"$NAME".prf"
 pfsearch -f "new"$NAME".prf" $path"pdb_seqres.txt" > "autoscalingsearchLinearrResults"$NAME
 python3 Verifyresults.py "searchLinearResults"$NAME "autoscalingsearchLinearrResults"$NAME $OUTPUTPATH $NAME 
