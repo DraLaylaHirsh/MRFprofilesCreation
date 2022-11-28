@@ -1,10 +1,10 @@
-####################
-MRFprofiles Creation
-####################
 
-
+###########################################
 Welcome to MRFprofiles Creation
-===============================
+###########################################
+
+Introduction
+============
 
 Profiles can help to identify different types of proteins in a particular data base.
 
@@ -24,14 +24,26 @@ Check out the :doc:`CreationProcess` section for the explanation of how :ref:`pr
 
    This project is under active development.
 
+
+
+********
 Contents
---------
+********
 
 .. toctree::
+   :maxdepth: 2
 
    Usefulllinks
    Requirements
    mustangHowto
    CreationProcess
    references
-   
+
+
+**********
+References
+**********
+
+.. target-notes::
+
+.. _`Sphinx`: http://sphinx.pocoo.org
