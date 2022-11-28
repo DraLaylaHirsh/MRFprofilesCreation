@@ -105,9 +105,7 @@ print("The missing proteins to retrieve are: "+ str(cpyFromProfile))
 for desc in founddesc:
     if desc in newfounddesc:
         newfounddesc.remove(desc)
-print("These are the new findings to verify:")
-for line in newfounddesc:
-    print(line)
+
 print("These are the new findings to verify all the details:")
 for line in listado:
     print(listado[line])
