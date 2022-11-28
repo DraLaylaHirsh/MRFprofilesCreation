@@ -1,0 +1,197 @@
+  16.885   1078 pos.        1 -      51 2kq5_A mol:protein length:51  Avirulence protein
+ 115.626   7978 pos.      114 -     512 2ypf_A mol:protein length:758  AVRBS3
+  97.466   6709 pos.      164 -     512 3ugm_A mol:protein length:1047  TAL effector AvrBs3/PthA
+ 120.548   8322 pos.        1 -     406 3v6p_A mol:protein length:442  dHax3
+ 122.695   8472 pos.       44 -     499 3v6t_A mol:protein length:499  dHax3
+ 122.695   8472 pos.       44 -     499 3v6t_B mol:protein length:499  dHax3
+ 121.765   8407 pos.       61 -     512 4cj9_A mol:protein length:794  BURRH
+ 121.765   8407 pos.       61 -     512 4cj9_B mol:protein length:794  BURRH
+ 121.765   8407 pos.       61 -     512 4cja_A mol:protein length:794  BURRH
+   9.601    569 pos.        1 -     243 4d49_A mol:protein length:243  ARMADILLO REPEAT PROTEIN ARM00027
+   9.601    569 pos.        1 -     243 4d49_B mol:protein length:243  ARMADILLO REPEAT PROTEIN ARM00027
+   9.601    569 pos.        1 -     243 4d49_E mol:protein length:243  ARMADILLO REPEAT PROTEIN ARM00027
+   9.601    569 pos.        1 -     243 4d49_F mol:protein length:243  ARMADILLO REPEAT PROTEIN ARM00027
+   9.086    533 pos.        9 -     245 4d4e_A mol:protein length:251  ARMADILLO REPEAT PROTEIN ARM00016
+   9.086    533 pos.        9 -     245 4d4e_B mol:protein length:251  ARMADILLO REPEAT PROTEIN ARM00016
+   9.000    527 pos.       41 -     210 4db6_A mol:protein length:210  Armadillo repeat protein
+   9.472    560 pos.       41 -     252 4db8_A mol:protein length:252  Armadillo-repeat Protein
+   9.472    560 pos.       41 -     252 4db8_B mol:protein length:252  Armadillo-repeat Protein
+   9.472    560 pos.       41 -     252 4db8_C mol:protein length:252  Armadillo-repeat Protein
+   9.472    560 pos.       41 -     252 4db8_D mol:protein length:252  Armadillo-repeat Protein
+ 121.979   8422 pos.       37 -     446 4gg4_A mol:protein length:499  Hax3
+ 122.466   8456 pos.       37 -     446 4gjp_A mol:protein length:499  Hax3
+ 122.466   8456 pos.       37 -     446 4gjp_B mol:protein length:499  Hax3
+ 122.294   8444 pos.       37 -     446 4gjr_A mol:protein length:499  Hax3
+ 122.294   8444 pos.       37 -     446 4gjr_B mol:protein length:499  Hax3
+  86.876   5969 pos.      119 -     461 4hpz_A mol:protein length:463  dTale2
+  11.547    705 pos.        1 -     243 4hxt_A mol:protein length:252  De Novo Protein OR329
+ 121.979   8422 pos.       37 -     446 4osh_B mol:protein length:499  Hax3
+ 121.979   8422 pos.       37 -     446 4osh_A mol:protein length:499  Hax3
+ 121.979   8422 pos.       37 -     446 4osi_A mol:protein length:499  Hax3
+ 121.979   8422 pos.       37 -     446 4osi_B mol:protein length:499  Hax3
+ 122.380   8450 pos.       37 -     446 4osj_A mol:protein length:499  Hax3
+ 122.380   8450 pos.       37 -     446 4osj_B mol:protein length:499  Hax3
+ 120.405   8312 pos.       37 -     446 4osk_A mol:protein length:499  Hax3
+ 120.405   8312 pos.       37 -     446 4osk_B mol:protein length:499  Hax3
+ 122.037   8426 pos.       37 -     446 4osl_A mol:protein length:499  Hax3
+ 122.037   8426 pos.       37 -     446 4osl_B mol:protein length:499  Hax3
+ 122.037   8426 pos.       37 -     446 4osm_A mol:protein length:499  Hax3
+ 122.037   8426 pos.       37 -     446 4osm_B mol:protein length:499  Hax3
+ 122.037   8426 pos.       37 -     446 4osq_A mol:protein length:499  Hax3
+ 122.037   8426 pos.       37 -     446 4osq_B mol:protein length:499  Hax3
+ 122.037   8426 pos.       37 -     446 4osr_A mol:protein length:499  Hax3
+ 122.037   8426 pos.       37 -     446 4osr_B mol:protein length:499  Hax3
+ 122.065   8428 pos.       37 -     446 4oss_A mol:protein length:499  Hax3
+ 122.065   8428 pos.       37 -     446 4oss_B mol:protein length:499  Hax3
+ 121.865   8414 pos.       37 -     446 4ost_A mol:protein length:499  Hax3
+ 121.865   8414 pos.       37 -     446 4ost_B mol:protein length:499  Hax3
+ 122.051   8427 pos.       37 -     446 4osv_A mol:protein length:499  Hax3
+ 122.051   8427 pos.       37 -     446 4osv_B mol:protein length:499  Hax3
+ 122.065   8428 pos.       37 -     446 4osw_A mol:protein length:499  Hax3
+ 122.065   8428 pos.       37 -     446 4osw_B mol:protein length:499  Hax3
+ 121.951   8420 pos.       37 -     446 4osz_A mol:protein length:499  Hax3
+ 121.951   8420 pos.       37 -     446 4osz_B mol:protein length:499  Hax3
+ 122.223   8439 pos.       37 -     446 4ot0_A mol:protein length:499  Hax3
+ 122.223   8439 pos.       37 -     446 4ot0_B mol:protein length:499  Hax3
+ 121.951   8420 pos.       37 -     446 4ot3_A mol:protein length:499  Hax3
+ 121.951   8420 pos.       37 -     446 4ot3_B mol:protein length:499  Hax3
+ 121.894   8416 pos.       37 -     446 4oto_A mol:protein length:499  Hax3
+ 121.894   8416 pos.       37 -     446 4oto_B mol:protein length:499  Hax3
+  10.302    618 pos.       13 -     294 4pjq_A mol:protein length:303  Pentatricopeptide repeat protein
+  10.302    618 pos.       13 -     294 4pjq_B mol:protein length:303  Pentatricopeptide repeat protein
+  11.318    689 pos.       13 -     303 4pjr_A mol:protein length:303  Pentatricopeptide repeat protein
+  11.318    689 pos.       13 -     303 4pjs_A mol:protein length:303  Pentatricopeptide repeat protein
+  10.574    637 pos.       33 -     245 4plq_A mol:protein length:284  Arm00011
+  10.574    637 pos.       38 -     250 4plr_A mol:protein length:289  Arm00008
+  10.574    637 pos.       38 -     250 4plr_B mol:protein length:289  Arm00008
+  10.574    637 pos.       30 -     242 4pls_A mol:protein length:281  Arm00010
+  10.574    637 pos.       30 -     242 4pls_B mol:protein length:281  Arm00010
+  10.574    637 pos.       30 -     242 4pls_C mol:protein length:281  Arm00010
+  10.574    637 pos.       30 -     242 4pls_D mol:protein length:281  Arm00010
+  17.901   1149 pos.        1 -     411 4rv1_A mol:protein length:420  Engineered Protein OR497
+  17.901   1149 pos.        1 -     411 4rv1_B mol:protein length:420  Engineered Protein OR497
+  17.901   1149 pos.        1 -     411 4rv1_C mol:protein length:420  Engineered Protein OR497
+  17.901   1149 pos.        1 -     411 4rv1_D mol:protein length:420  Engineered Protein OR497
+  17.901   1149 pos.        1 -     411 4rv1_E mol:protein length:420  Engineered Protein OR497
+  17.901   1149 pos.        1 -     411 4rv1_F mol:protein length:420  Engineered Protein OR497
+  14.509    912 pos.        1 -     243 4rzp_A mol:protein length:252  Engineered Protein OR366
+  14.509    912 pos.        1 -     243 4rzp_B mol:protein length:252  Engineered Protein OR366
+  10.688    645 pos.       37 -     287 4v3o_A mol:protein length:289  YIII_M5_AII
+  10.688    645 pos.       37 -     287 4v3o_B mol:protein length:289  YIII_M5_AII
+  10.688    645 pos.       37 -     287 4v3o_C mol:protein length:289  YIII_M5_AII
+  10.688    645 pos.       37 -     287 4v3o_D mol:protein length:289  YIII_M5_AII
+   9.071    532 pos.       37 -     245 4v3q_A mol:protein length:247  YIII_M4_AII
+   9.071    532 pos.       37 -     245 4v3q_B mol:protein length:247  YIII_M4_AII
+   9.071    532 pos.       37 -     245 4v3q_C mol:protein length:247  YIII_M4_AII
+   9.071    532 pos.       37 -     245 4v3q_D mol:protein length:247  YIII_M4_AII
+  10.703    646 pos.       33 -     286 4v3r_A mol:protein length:286  YIII_M5_AII
+  10.703    646 pos.       33 -     286 4v3r_B mol:protein length:286  YIII_M5_AII
+   9.830    585 pos.       13 -     303 4wn4_A mol:protein length:303  Pentatricopeptide repeat protein
+   9.830    585 pos.       13 -     303 4wn4_B mol:protein length:303  Pentatricopeptide repeat protein
+  14.509    912 pos.       13 -     303 4wsl_A mol:protein length:303  Pentatricopeptide repeat protein
+  12.234    753 pos.       33 -     286 5aei_A mol:protein length:286  DESIGNED ARMADILLO REPEAT PROTEIN YIIIM5AII
+  12.234    753 pos.       33 -     286 5aei_B mol:protein length:286  DESIGNED ARMADILLO REPEAT PROTEIN YIIIM5AII
+  12.234    753 pos.       33 -     286 5aei_C mol:protein length:286  DESIGNED ARMADILLO REPEAT PROTEIN YIIIM5AII
+   8.885    519 pos.        1 -     199 5mfb_A mol:protein length:243  YIII(Dq)4CqI
+   8.885    519 pos.        1 -     199 5mfb_B mol:protein length:243  YIII(Dq)4CqI
+  12.234    753 pos.       33 -     286 5mfc_A mol:protein length:286  YIIIM5AII
+  12.234    753 pos.       33 -     286 5mfc_C mol:protein length:286  YIIIM5AII
+  12.406    765 pos.       33 -     328 5mfd_A mol:protein length:328  YIIIM''6AII
+  12.406    765 pos.       33 -     328 5mfd_C mol:protein length:328  YIIIM''6AII
+  12.406    765 pos.       33 -     328 5mfd_E mol:protein length:328  YIIIM''6AII
+  12.406    765 pos.       33 -     328 5mfd_G mol:protein length:328  YIIIM''6AII
+  12.406    765 pos.       33 -     328 5mfd_I mol:protein length:328  YIIIM''6AII
+  12.406    765 pos.       33 -     328 5mfd_J mol:protein length:328  YIIIM''6AII
+  12.406    765 pos.       33 -     328 5mfd_K mol:protein length:328  YIIIM''6AII
+  12.406    765 pos.       33 -     328 5mfd_L mol:protein length:328  YIIIM''6AII
+  12.234    753 pos.       33 -     286 5mfe_A mol:protein length:286  YIIIM5AII
+  12.234    753 pos.       33 -     286 5mfe_B mol:protein length:286  YIIIM5AII
+  12.234    753 pos.       33 -     286 5mfe_C mol:protein length:286  YIIIM5AII
+  12.234    753 pos.       33 -     286 5mfe_D mol:protein length:286  YIIIM5AII
+  12.234    753 pos.       33 -     286 5mff_A mol:protein length:286  YIIIM5AII
+  12.234    753 pos.       33 -     286 5mff_B mol:protein length:286  YIIIM5AII
+  12.234    753 pos.       33 -     286 5mff_C mol:protein length:286  YIIIM5AII
+  12.234    753 pos.       33 -     286 5mff_D mol:protein length:286  YIIIM5AII
+  12.234    753 pos.       33 -     286 5mfg_A mol:protein length:286  YIIIM5AII
+  12.234    753 pos.       33 -     286 5mfg_B mol:protein length:286  YIIIM5AII
+  12.234    753 pos.       33 -     286 5mfg_C mol:protein length:286  YIIIM5AII
+  12.234    753 pos.       33 -     286 5mfg_D mol:protein length:286  YIIIM5AII
+  12.234    753 pos.       33 -     286 5mfh_A mol:protein length:286  YIIIM5AII
+  12.234    753 pos.       33 -     286 5mfh_B mol:protein length:286  YIIIM5AII
+  12.234    753 pos.       33 -     286 5mfh_C mol:protein length:286  YIIIM5AII
+  12.234    753 pos.       33 -     286 5mfh_D mol:protein length:286  YIIIM5AII
+   9.415    556 pos.        1 -     203 5mfi_A mol:protein length:243  YIII(Dq.V2)4CqI
+   9.415    556 pos.        1 -     203 5mfi_B mol:protein length:243  YIII(Dq.V2)4CqI
+   9.415    556 pos.        1 -     203 5mfj_A mol:protein length:243  YIII(Dq.V2)4CqI
+   9.415    556 pos.        1 -     203 5mfj_B mol:protein length:243  YIII(Dq.V2)4CqI
+   9.601    569 pos.        1 -     243 5mfk_A mol:protein length:243  YIII(Dq.V1)4CPAF
+   9.601    569 pos.        1 -     243 5mfk_B mol:protein length:243  YIII(Dq.V1)4CPAF
+  13.851    866 pos.       55 -     350 5mfl_A mol:protein length:350  (KR)5_GS10_YIIIM6AII
+  13.851    866 pos.       55 -     350 5mfl_B mol:protein length:350  (KR)5_GS10_YIIIM6AII
+  13.851    866 pos.       55 -     350 5mfl_C mol:protein length:350  (KR)5_GS10_YIIIM6AII
+  13.479    840 pos.       33 -     332 5mfm_A mol:protein length:348  YIIIM6AII_GS11_(KR)5
+  13.479    840 pos.       33 -     332 5mfm_B mol:protein length:348  YIIIM6AII_GS11_(KR)5
+  13.479    840 pos.       33 -     332 5mfm_D mol:protein length:348  YIIIM6AII_GS11_(KR)5
+  13.479    840 pos.       33 -     332 5mfm_E mol:protein length:348  YIIIM6AII_GS11_(KR)5
+  13.479    840 pos.       33 -     332 5mfm_F mol:protein length:348  YIIIM6AII_GS11_(KR)5
+  13.479    840 pos.       33 -     332 5mfm_P mol:protein length:348  YIIIM6AII_GS11_(KR)5
+  13.479    840 pos.       33 -     332 5mfm_Q mol:protein length:348  YIIIM6AII_GS11_(KR)5
+  13.479    840 pos.       33 -     332 5mfm_C mol:protein length:350  Importin subunit alpha
+  12.234    753 pos.       33 -     286 5mfn_A mol:protein length:286  YIIIM5AII
+  12.234    753 pos.       33 -     286 5mfn_B mol:protein length:286  YIIIM5AII
+  12.778    791 pos.        1 -     349 5orm_A mol:protein length:350  cPPR-Telo1
+  13.221    822 pos.       12 -     363 5orq_A mol:protein length:364  cPPR-Telo1
+ 121.507   8389 pos.       37 -     446 6jtq_A mol:protein length:499  TAL effector
+ 121.507   8389 pos.       37 -     446 6jtq_B mol:protein length:499  TAL effector
+ 121.507   8389 pos.       37 -     446 6jvz_A mol:protein length:499  TAL effector
+ 121.507   8389 pos.       37 -     446 6jvz_B mol:protein length:499  TAL effector
+ 120.606   8326 pos.       37 -     445 6jw0_A mol:protein length:498  TAL effector
+ 120.606   8326 pos.       37 -     445 6jw0_B mol:protein length:498  TAL effector
+ 120.606   8326 pos.       37 -     445 6jw1_A mol:protein length:498  TAL effector
+ 120.606   8326 pos.       37 -     445 6jw1_B mol:protein length:498  TAL effector
+ 120.606   8326 pos.       37 -     445 6jw2_A mol:protein length:498  TAL effector
+ 120.606   8326 pos.       37 -     445 6jw2_B mol:protein length:498  TAL effector
+ 120.606   8326 pos.       37 -     445 6jw2_E mol:protein length:498  TAL effector
+ 120.606   8326 pos.       37 -     445 6jw2_H mol:protein length:498  TAL effector
+ 121.450   8385 pos.       37 -     446 6jw3_A mol:protein length:499  TAL effector
+ 121.450   8385 pos.       37 -     446 6jw3_B mol:protein length:499  TAL effector
+ 121.450   8385 pos.       37 -     446 6jw3_E mol:protein length:499  TAL effector
+ 121.450   8385 pos.       37 -     446 6jw3_H mol:protein length:499  TAL effector
+ 121.450   8385 pos.       37 -     446 6jw4_A mol:protein length:499  TAL effector
+ 121.450   8385 pos.       37 -     446 6jw4_B mol:protein length:499  TAL effector
+ 121.450   8385 pos.       37 -     446 6jw4_E mol:protein length:499  TAL effector
+ 121.450   8385 pos.       37 -     446 6jw4_H mol:protein length:499  TAL effector
+ 120.663   8330 pos.       37 -     445 6jw5_A mol:protein length:498  TAL effector
+ 120.663   8330 pos.       37 -     445 6jw5_B mol:protein length:498  TAL effector
+ 120.663   8330 pos.       37 -     445 6jw5_E mol:protein length:498  TAL effector
+ 120.663   8330 pos.       37 -     445 6jw5_H mol:protein length:498  TAL effector
+ 121.507   8389 pos.       37 -     446 6lew_A mol:protein length:499  TAL effector
+ 121.507   8389 pos.       37 -     446 6lew_B mol:protein length:499  TAL effector
+  11.876    728 pos.       33 -     286 6s9l_A mol:protein length:286  KR4KLSF Lock1
+  11.876    728 pos.       33 -     286 6s9l_B mol:protein length:286  KR4KLSF Lock1
+  14.295    897 pos.       33 -     302 6s9m_A mol:protein length:302  Lock2_KRKRKAKITW
+  14.295    897 pos.       33 -     302 6s9m_B mol:protein length:302  Lock2_KRKRKAKITW
+  14.295    897 pos.       33 -     302 6s9m_C mol:protein length:302  Lock2_KRKRKAKITW
+  14.295    897 pos.       33 -     302 6s9m_D mol:protein length:302  Lock2_KRKRKAKITW
+  14.295    897 pos.       33 -     302 6s9m_E mol:protein length:302  Lock2_KRKRKAKITW
+  14.295    897 pos.       33 -     302 6s9m_F mol:protein length:302  Lock2_KRKRKAKITW
+  14.724    927 pos.       33 -     302 6s9n_A mol:protein length:302  Lock2_KRKRKAKLSF
+  14.724    927 pos.       33 -     302 6s9n_B mol:protein length:302  Lock2_KRKRKAKLSF
+  14.724    927 pos.       33 -     302 6s9n_C mol:protein length:302  Lock2_KRKRKAKLSF
+  14.724    927 pos.       33 -     302 6s9n_D mol:protein length:302  Lock2_KRKRKAKLSF
+  14.724    927 pos.       33 -     302 6s9n_E mol:protein length:302  Lock2_KRKRKAKLSF
+  14.724    927 pos.       33 -     302 6s9n_F mol:protein length:302  Lock2_KRKRKAKLSF
+  14.824    934 pos.       33 -     344 6s9o_A mol:protein length:344  designed Armadillo repeat protein with internal Lock1 fused to target peptide KRKRKLKFKR
+  14.824    934 pos.       33 -     344 6s9o_B mol:protein length:344  designed Armadillo repeat protein with internal Lock1 fused to target peptide KRKRKLKFKR
+  14.824    934 pos.       33 -     344 6s9o_C mol:protein length:344  designed Armadillo repeat protein with internal Lock1 fused to target peptide KRKRKLKFKR
+  14.824    934 pos.       33 -     344 6s9o_D mol:protein length:344  designed Armadillo repeat protein with internal Lock1 fused to target peptide KRKRKLKFKR
+  14.824    934 pos.       33 -     344 6s9o_E mol:protein length:344  designed Armadillo repeat protein with internal Lock1 fused to target peptide KRKRKLKFKR
+  14.824    934 pos.       33 -     344 6s9o_F mol:protein length:344  designed Armadillo repeat protein with internal Lock1 fused to target peptide KRKRKLKFKR
+  15.168    958 pos.       33 -     344 6s9p_A mol:protein length:344  internal Lock2 fused to target peptide KRKAKITWKR
+  15.168    958 pos.       33 -     344 6s9p_B mol:protein length:344  internal Lock2 fused to target peptide KRKAKITWKR
+  10.002    597 pos.      147 -     397 6sa6_A mol:protein length:397  DARPin-Armadillo fusion A5
+  13.779    861 pos.      202 -     498 6sa7_A mol:protein length:510  DARPin-Armadillo fusion C8long83
+  13.779    861 pos.      202 -     498 6sa7_B mol:protein length:510  DARPin-Armadillo fusion C8long83
+  14.352    901 pos.      207 -     512 6sa8_A mol:protein length:671  ring-like DARPin-Armadillo fusion H83_D01
+  10.245    614 pos.        1 -     238 7qnp_AAA mol:protein length:240  Designed Armadillo Repeat Protein N(A4)M4C(AII)
+   9.286    547 pos.      318 -     512 7r0r_A mol:protein length:571  Designed Armadillo Repeat Protein N(A4)M4C(AII)
