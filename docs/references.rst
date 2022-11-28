@@ -14,3 +14,7 @@ El-Gebali S, Mistry J, Bateman A, Eddy SR, Luciani A, Potter SC, Qureshi M, Rich
 RepeatsDB in 2021: improved data and extended classification for protein tandem repeat structures
 Paladin L, Bevilacqua M, Errigo S, Piovesan D, Mičetić I, Necci M, Monzon A, Fabre ML, Lopez JL, Nilsson J, Rios J, Lorenzano Menna P, Cabrera M, Gonzalez Buitron M, Gonçalves Kulik M, Fernandez-Alberti S, Silvina M, Parisi G, Lagares A, Hirsh L, Andrade-Navarro MA, Kajava AV, Tosatto SCE
 Nucleic Acids Research 2020 doi.org/10.1093/nar/gkaa1097
+
+Pagni M, Niculita-Hirzel H, Pellissier L, Dubuis A, Xenarios I, Guisan A, Sanders IR, Goudet J, Guex N. Density-based hierarchical clustering of pyro-sequences on a large scale - the case of fungal ITS1. Bioinformatics. 2013 May 15;29(10):1268-74. doi: 10.1093/bioinformatics/btt149. PubMed PMID: 23539304 ; PubMed Central PMCID: PMC3654712.
+
+Schmid-Siegert E, Richard S, Luraschi A, Mühlethaler K, Pagni M, Hauser PM. Mechanisms of Surface Antigenic Variation in the Human Pathogenic Fungus Pneumocystis jirovecii. MBio. 2017 Nov 7;8(6). pii: e01470-17. doi: 10.1128/mBio.01470-17. PubMed PMID: 29114024; PubMed Central PMCID: PMC5676039.
