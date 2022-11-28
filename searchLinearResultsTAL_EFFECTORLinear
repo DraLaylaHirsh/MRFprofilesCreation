@@ -1,0 +1,284 @@
+  25.090   2509 pos.      149 -     251 2ypf_A mol:protein length:758  AVRBS3
+  24.390   2439 pos.      251 -     353 2ypf_A mol:protein length:758  AVRBS3
+  24.620   2462 pos.      387 -     489 2ypf_A mol:protein length:758  AVRBS3
+  25.690   2569 pos.      301 -     403 3ugm_A mol:protein length:1047  TAL effector AvrBs3/PthA
+  24.710   2471 pos.      199 -     301 3ugm_A mol:protein length:1047  TAL effector AvrBs3/PthA
+  24.410   2441 pos.      402 -     504 3ugm_A mol:protein length:1047  TAL effector AvrBs3/PthA
+  25.380   2538 pos.      168 -     270 3v6p_A mol:protein length:442  dHax3
+  25.010   2501 pos.       66 -     168 3v6p_A mol:protein length:442  dHax3
+  25.210   2521 pos.      304 -     406 3v6p_A mol:protein length:442  dHax3
+  25.380   2538 pos.      215 -     317 3v6t_A mol:protein length:499  dHax3
+  25.010   2501 pos.      113 -     215 3v6t_A mol:protein length:499  dHax3
+  12.660   1266 pos.       10 -     113 3v6t_A mol:protein length:499  dHax3
+  25.210   2521 pos.      351 -     453 3v6t_A mol:protein length:499  dHax3
+  25.380   2538 pos.      215 -     317 3v6t_B mol:protein length:499  dHax3
+  25.010   2501 pos.      113 -     215 3v6t_B mol:protein length:499  dHax3
+  12.660   1266 pos.       10 -     113 3v6t_B mol:protein length:499  dHax3
+  25.210   2521 pos.      351 -     453 3v6t_B mol:protein length:499  dHax3
+  27.700   2770 pos.      160 -     263 4cj9_A mol:protein length:794  BURRH
+  22.640   2264 pos.       61 -     164 4cj9_A mol:protein length:794  BURRH
+  28.240   2824 pos.      292 -     395 4cj9_A mol:protein length:794  BURRH
+  26.890   2689 pos.      391 -     494 4cj9_A mol:protein length:794  BURRH
+  27.700   2770 pos.      160 -     263 4cj9_B mol:protein length:794  BURRH
+  22.640   2264 pos.       61 -     164 4cj9_B mol:protein length:794  BURRH
+  28.240   2824 pos.      292 -     395 4cj9_B mol:protein length:794  BURRH
+  26.890   2689 pos.      391 -     494 4cj9_B mol:protein length:794  BURRH
+  27.700   2770 pos.      160 -     263 4cja_A mol:protein length:794  BURRH
+  22.640   2264 pos.       61 -     164 4cja_A mol:protein length:794  BURRH
+  28.240   2824 pos.      292 -     395 4cja_A mol:protein length:794  BURRH
+  26.890   2689 pos.      391 -     494 4cja_A mol:protein length:794  BURRH
+  25.240   2524 pos.      140 -     242 4gg4_A mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4gg4_A mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4gg4_A mol:protein length:499  Hax3
+  24.650   2465 pos.      242 -     344 4gg4_A mol:protein length:499  Hax3
+  25.640   2564 pos.      276 -     378 4gjp_A mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4gjp_A mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4gjp_A mol:protein length:499  Hax3
+  17.000   1700 pos.      378 -     481 4gjp_A mol:protein length:499  Hax3
+  25.640   2564 pos.      276 -     378 4gjp_B mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4gjp_B mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4gjp_B mol:protein length:499  Hax3
+  17.000   1700 pos.      378 -     481 4gjp_B mol:protein length:499  Hax3
+  25.380   2538 pos.      208 -     310 4gjr_A mol:protein length:499  Hax3
+  25.010   2501 pos.      106 -     208 4gjr_A mol:protein length:499  Hax3
+  12.660   1266 pos.        3 -     106 4gjr_A mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4gjr_A mol:protein length:499  Hax3
+  25.380   2538 pos.      208 -     310 4gjr_B mol:protein length:499  Hax3
+  25.010   2501 pos.      106 -     208 4gjr_B mol:protein length:499  Hax3
+  12.660   1266 pos.        3 -     106 4gjr_B mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4gjr_B mol:protein length:499  Hax3
+  25.520   2552 pos.      222 -     324 4hpz_A mol:protein length:463  dTale2
+  18.040   1804 pos.      119 -     222 4hpz_A mol:protein length:463  dTale2
+  25.030   2503 pos.      324 -     426 4hpz_A mol:protein length:463  dTale2
+  25.240   2524 pos.      140 -     242 4osh_B mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4osh_B mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4osh_B mol:protein length:499  Hax3
+  24.650   2465 pos.      242 -     344 4osh_B mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4osh_A mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4osh_A mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4osh_A mol:protein length:499  Hax3
+  24.650   2465 pos.      242 -     344 4osh_A mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4osi_A mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4osi_A mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4osi_A mol:protein length:499  Hax3
+  24.650   2465 pos.      242 -     344 4osi_A mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4osi_B mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4osi_B mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4osi_B mol:protein length:499  Hax3
+  24.650   2465 pos.      242 -     344 4osi_B mol:protein length:499  Hax3
+  25.440   2544 pos.      208 -     310 4osj_A mol:protein length:499  Hax3
+  25.010   2501 pos.      106 -     208 4osj_A mol:protein length:499  Hax3
+  12.660   1266 pos.        3 -     106 4osj_A mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4osj_A mol:protein length:499  Hax3
+  25.440   2544 pos.      208 -     310 4osj_B mol:protein length:499  Hax3
+  25.010   2501 pos.      106 -     208 4osj_B mol:protein length:499  Hax3
+  12.660   1266 pos.        3 -     106 4osj_B mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4osj_B mol:protein length:499  Hax3
+  25.010   2501 pos.      140 -     242 4osk_A mol:protein length:499  Hax3
+  18.870   1887 pos.       37 -     140 4osk_A mol:protein length:499  Hax3
+  25.290   2529 pos.      344 -     446 4osk_A mol:protein length:499  Hax3
+  25.030   2503 pos.      242 -     344 4osk_A mol:protein length:499  Hax3
+  25.010   2501 pos.      140 -     242 4osk_B mol:protein length:499  Hax3
+  18.870   1887 pos.       37 -     140 4osk_B mol:protein length:499  Hax3
+  25.290   2529 pos.      344 -     446 4osk_B mol:protein length:499  Hax3
+  25.030   2503 pos.      242 -     344 4osk_B mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4osl_A mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4osl_A mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4osl_A mol:protein length:499  Hax3
+  24.680   2468 pos.      242 -     344 4osl_A mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4osl_B mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4osl_B mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4osl_B mol:protein length:499  Hax3
+  24.680   2468 pos.      242 -     344 4osl_B mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4osm_A mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4osm_A mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4osm_A mol:protein length:499  Hax3
+  24.680   2468 pos.      242 -     344 4osm_A mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4osm_B mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4osm_B mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4osm_B mol:protein length:499  Hax3
+  24.680   2468 pos.      242 -     344 4osm_B mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4osq_A mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4osq_A mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4osq_A mol:protein length:499  Hax3
+  24.680   2468 pos.      242 -     344 4osq_A mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4osq_B mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4osq_B mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4osq_B mol:protein length:499  Hax3
+  24.680   2468 pos.      242 -     344 4osq_B mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4osr_A mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4osr_A mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4osr_A mol:protein length:499  Hax3
+  24.680   2468 pos.      242 -     344 4osr_A mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4osr_B mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4osr_B mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4osr_B mol:protein length:499  Hax3
+  24.680   2468 pos.      242 -     344 4osr_B mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4oss_A mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4oss_A mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4oss_A mol:protein length:499  Hax3
+  24.700   2470 pos.      242 -     344 4oss_A mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4oss_B mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4oss_B mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4oss_B mol:protein length:499  Hax3
+  24.700   2470 pos.      242 -     344 4oss_B mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4ost_A mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4ost_A mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4ost_A mol:protein length:499  Hax3
+  24.570   2457 pos.      242 -     344 4ost_A mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4ost_B mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4ost_B mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4ost_B mol:protein length:499  Hax3
+  24.570   2457 pos.      242 -     344 4ost_B mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4osv_A mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4osv_A mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4osv_A mol:protein length:499  Hax3
+  24.650   2465 pos.      242 -     344 4osv_A mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4osv_B mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4osv_B mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4osv_B mol:protein length:499  Hax3
+  24.650   2465 pos.      242 -     344 4osv_B mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4osw_A mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4osw_A mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4osw_A mol:protein length:499  Hax3
+  24.710   2471 pos.      242 -     344 4osw_A mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4osw_B mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4osw_B mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4osw_B mol:protein length:499  Hax3
+  24.710   2471 pos.      242 -     344 4osw_B mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4osz_A mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4osz_A mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4osz_A mol:protein length:499  Hax3
+  24.630   2463 pos.      242 -     344 4osz_A mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4osz_B mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4osz_B mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4osz_B mol:protein length:499  Hax3
+  24.630   2463 pos.      242 -     344 4osz_B mol:protein length:499  Hax3
+  25.340   2534 pos.      208 -     310 4ot0_A mol:protein length:499  Hax3
+  25.010   2501 pos.      106 -     208 4ot0_A mol:protein length:499  Hax3
+  12.660   1266 pos.        3 -     106 4ot0_A mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4ot0_A mol:protein length:499  Hax3
+  25.340   2534 pos.      208 -     310 4ot0_B mol:protein length:499  Hax3
+  25.010   2501 pos.      106 -     208 4ot0_B mol:protein length:499  Hax3
+  12.660   1266 pos.        3 -     106 4ot0_B mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4ot0_B mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4ot3_A mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4ot3_A mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4ot3_A mol:protein length:499  Hax3
+  24.600   2460 pos.      242 -     344 4ot3_A mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4ot3_B mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4ot3_B mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4ot3_B mol:protein length:499  Hax3
+  24.600   2460 pos.      242 -     344 4ot3_B mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4oto_A mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4oto_A mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4oto_A mol:protein length:499  Hax3
+  24.480   2448 pos.      242 -     344 4oto_A mol:protein length:499  Hax3
+  25.240   2524 pos.      140 -     242 4oto_B mol:protein length:499  Hax3
+  18.800   1880 pos.       37 -     140 4oto_B mol:protein length:499  Hax3
+  25.210   2521 pos.      344 -     446 4oto_B mol:protein length:499  Hax3
+  24.480   2448 pos.      242 -     344 4oto_B mol:protein length:499  Hax3
+  25.010   2501 pos.      106 -     208 6jtq_A mol:protein length:499  TAL effector
+  12.660   1266 pos.        3 -     106 6jtq_A mol:protein length:499  TAL effector
+  25.330   2533 pos.      344 -     446 6jtq_A mol:protein length:499  TAL effector
+  24.570   2457 pos.      242 -     344 6jtq_A mol:protein length:499  TAL effector
+  25.010   2501 pos.      106 -     208 6jtq_B mol:protein length:499  TAL effector
+  12.660   1266 pos.        3 -     106 6jtq_B mol:protein length:499  TAL effector
+  25.330   2533 pos.      344 -     446 6jtq_B mol:protein length:499  TAL effector
+  24.570   2457 pos.      242 -     344 6jtq_B mol:protein length:499  TAL effector
+  25.010   2501 pos.      106 -     208 6jvz_A mol:protein length:499  TAL effector
+  12.660   1266 pos.        3 -     106 6jvz_A mol:protein length:499  TAL effector
+  25.330   2533 pos.      344 -     446 6jvz_A mol:protein length:499  TAL effector
+  24.570   2457 pos.      242 -     344 6jvz_A mol:protein length:499  TAL effector
+  25.010   2501 pos.      106 -     208 6jvz_B mol:protein length:499  TAL effector
+  12.660   1266 pos.        3 -     106 6jvz_B mol:protein length:499  TAL effector
+  25.330   2533 pos.      344 -     446 6jvz_B mol:protein length:499  TAL effector
+  24.570   2457 pos.      242 -     344 6jvz_B mol:protein length:499  TAL effector
+  25.010   2501 pos.      106 -     208 6jw0_A mol:protein length:498  TAL effector
+  12.660   1266 pos.        3 -     106 6jw0_A mol:protein length:498  TAL effector
+  25.330   2533 pos.      343 -     445 6jw0_A mol:protein length:498  TAL effector
+  24.520   2452 pos.      241 -     343 6jw0_A mol:protein length:498  TAL effector
+  25.010   2501 pos.      106 -     208 6jw0_B mol:protein length:498  TAL effector
+  12.660   1266 pos.        3 -     106 6jw0_B mol:protein length:498  TAL effector
+  25.330   2533 pos.      343 -     445 6jw0_B mol:protein length:498  TAL effector
+  24.520   2452 pos.      241 -     343 6jw0_B mol:protein length:498  TAL effector
+  25.010   2501 pos.      106 -     208 6jw1_A mol:protein length:498  TAL effector
+  12.660   1266 pos.        3 -     106 6jw1_A mol:protein length:498  TAL effector
+  25.330   2533 pos.      343 -     445 6jw1_A mol:protein length:498  TAL effector
+  24.520   2452 pos.      241 -     343 6jw1_A mol:protein length:498  TAL effector
+  25.010   2501 pos.      106 -     208 6jw1_B mol:protein length:498  TAL effector
+  12.660   1266 pos.        3 -     106 6jw1_B mol:protein length:498  TAL effector
+  25.330   2533 pos.      343 -     445 6jw1_B mol:protein length:498  TAL effector
+  24.520   2452 pos.      241 -     343 6jw1_B mol:protein length:498  TAL effector
+  25.010   2501 pos.      106 -     208 6jw2_A mol:protein length:498  TAL effector
+  12.660   1266 pos.        3 -     106 6jw2_A mol:protein length:498  TAL effector
+  25.330   2533 pos.      343 -     445 6jw2_A mol:protein length:498  TAL effector
+  24.520   2452 pos.      241 -     343 6jw2_A mol:protein length:498  TAL effector
+  25.010   2501 pos.      106 -     208 6jw2_B mol:protein length:498  TAL effector
+  12.660   1266 pos.        3 -     106 6jw2_B mol:protein length:498  TAL effector
+  25.330   2533 pos.      343 -     445 6jw2_B mol:protein length:498  TAL effector
+  24.520   2452 pos.      241 -     343 6jw2_B mol:protein length:498  TAL effector
+  25.010   2501 pos.      106 -     208 6jw2_E mol:protein length:498  TAL effector
+  12.660   1266 pos.        3 -     106 6jw2_E mol:protein length:498  TAL effector
+  25.330   2533 pos.      343 -     445 6jw2_E mol:protein length:498  TAL effector
+  24.520   2452 pos.      241 -     343 6jw2_E mol:protein length:498  TAL effector
+  25.010   2501 pos.      106 -     208 6jw2_H mol:protein length:498  TAL effector
+  12.660   1266 pos.        3 -     106 6jw2_H mol:protein length:498  TAL effector
+  25.330   2533 pos.      343 -     445 6jw2_H mol:protein length:498  TAL effector
+  24.520   2452 pos.      241 -     343 6jw2_H mol:protein length:498  TAL effector
+  25.010   2501 pos.      106 -     208 6jw3_A mol:protein length:499  TAL effector
+  12.660   1266 pos.        3 -     106 6jw3_A mol:protein length:499  TAL effector
+  25.330   2533 pos.      344 -     446 6jw3_A mol:protein length:499  TAL effector
+  24.640   2464 pos.      242 -     344 6jw3_A mol:protein length:499  TAL effector
+  25.010   2501 pos.      106 -     208 6jw3_B mol:protein length:499  TAL effector
+  12.660   1266 pos.        3 -     106 6jw3_B mol:protein length:499  TAL effector
+  25.330   2533 pos.      344 -     446 6jw3_B mol:protein length:499  TAL effector
+  24.640   2464 pos.      242 -     344 6jw3_B mol:protein length:499  TAL effector
+  25.010   2501 pos.      106 -     208 6jw3_E mol:protein length:499  TAL effector
+  12.660   1266 pos.        3 -     106 6jw3_E mol:protein length:499  TAL effector
+  25.330   2533 pos.      344 -     446 6jw3_E mol:protein length:499  TAL effector
+  24.640   2464 pos.      242 -     344 6jw3_E mol:protein length:499  TAL effector
+  25.010   2501 pos.      106 -     208 6jw3_H mol:protein length:499  TAL effector
+  12.660   1266 pos.        3 -     106 6jw3_H mol:protein length:499  TAL effector
+  25.330   2533 pos.      344 -     446 6jw3_H mol:protein length:499  TAL effector
+  24.640   2464 pos.      242 -     344 6jw3_H mol:protein length:499  TAL effector
+  25.010   2501 pos.      106 -     208 6jw4_A mol:protein length:499  TAL effector
+  12.660   1266 pos.        3 -     106 6jw4_A mol:protein length:499  TAL effector
+  25.330   2533 pos.      344 -     446 6jw4_A mol:protein length:499  TAL effector
+  24.640   2464 pos.      242 -     344 6jw4_A mol:protein length:499  TAL effector
+  25.010   2501 pos.      106 -     208 6jw4_B mol:protein length:499  TAL effector
+  12.660   1266 pos.        3 -     106 6jw4_B mol:protein length:499  TAL effector
+  25.330   2533 pos.      344 -     446 6jw4_B mol:protein length:499  TAL effector
+  24.640   2464 pos.      242 -     344 6jw4_B mol:protein length:499  TAL effector
+  25.010   2501 pos.      106 -     208 6jw4_E mol:protein length:499  TAL effector
+  12.660   1266 pos.        3 -     106 6jw4_E mol:protein length:499  TAL effector
+  25.330   2533 pos.      344 -     446 6jw4_E mol:protein length:499  TAL effector
+  24.640   2464 pos.      242 -     344 6jw4_E mol:protein length:499  TAL effector
+  25.010   2501 pos.      106 -     208 6jw4_H mol:protein length:499  TAL effector
+  12.660   1266 pos.        3 -     106 6jw4_H mol:protein length:499  TAL effector
+  25.330   2533 pos.      344 -     446 6jw4_H mol:protein length:499  TAL effector
+  24.640   2464 pos.      242 -     344 6jw4_H mol:protein length:499  TAL effector
+  25.010   2501 pos.      106 -     208 6jw5_A mol:protein length:498  TAL effector
+  12.660   1266 pos.        3 -     106 6jw5_A mol:protein length:498  TAL effector
+  25.330   2533 pos.      343 -     445 6jw5_A mol:protein length:498  TAL effector
+  24.540   2454 pos.      241 -     343 6jw5_A mol:protein length:498  TAL effector
+  25.010   2501 pos.      106 -     208 6jw5_B mol:protein length:498  TAL effector
+  12.660   1266 pos.        3 -     106 6jw5_B mol:protein length:498  TAL effector
+  25.330   2533 pos.      343 -     445 6jw5_B mol:protein length:498  TAL effector
+  24.540   2454 pos.      241 -     343 6jw5_B mol:protein length:498  TAL effector
+  25.010   2501 pos.      106 -     208 6jw5_E mol:protein length:498  TAL effector
+  12.660   1266 pos.        3 -     106 6jw5_E mol:protein length:498  TAL effector
+  25.330   2533 pos.      343 -     445 6jw5_E mol:protein length:498  TAL effector
+  24.540   2454 pos.      241 -     343 6jw5_E mol:protein length:498  TAL effector
+  25.010   2501 pos.      106 -     208 6jw5_H mol:protein length:498  TAL effector
+  12.660   1266 pos.        3 -     106 6jw5_H mol:protein length:498  TAL effector
+  25.330   2533 pos.      343 -     445 6jw5_H mol:protein length:498  TAL effector
+  24.540   2454 pos.      241 -     343 6jw5_H mol:protein length:498  TAL effector
+  25.010   2501 pos.      106 -     208 6lew_A mol:protein length:499  TAL effector
+  12.660   1266 pos.        3 -     106 6lew_A mol:protein length:499  TAL effector
+  25.330   2533 pos.      344 -     446 6lew_A mol:protein length:499  TAL effector
+  24.570   2457 pos.      242 -     344 6lew_A mol:protein length:499  TAL effector
+  25.010   2501 pos.      106 -     208 6lew_B mol:protein length:499  TAL effector
+  12.660   1266 pos.        3 -     106 6lew_B mol:protein length:499  TAL effector
+  25.330   2533 pos.      344 -     446 6lew_B mol:protein length:499  TAL effector
+  24.570   2457 pos.      242 -     344 6lew_B mol:protein length:499  TAL effector
