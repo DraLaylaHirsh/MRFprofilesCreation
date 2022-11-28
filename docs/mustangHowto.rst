@@ -114,19 +114,19 @@ that are allocated in the folder   /home/mypc/SRUL/  you just need to create a f
 
 You can download the mus file  `here <https://github.com/DraLaylaHirsh/MRFprofilesCreation/blob/fee5c18e268941d3cec22cf4da90faca4a185fc7/docs/TAL_EFFECTOR.mus>`_, you can download the fragments structures `here <https://github.com/DraLaylaHirsh/MRFprofilesCreation/blob/780e8c5160e553ce8ee3e7b6ca540f47732cbc6e/SRUL.tar.gz>`_.
 
-to have the aligned pdbs and fasta in an output called results you need to execute the following command line
+To obtain the aligned pdbs and fasta in an output called results you need to execute the following command line:
 
 .. code-block:: runmustang
 
   /MUSTANG_v3.2.4/bin/mustang-3.2.4 -f example.mus -F fasta -o resultsTAL_EFFECTOR
 
-the program will return two files :
+As a result, if there are no errors, the program will return two files :
 
 `resultsTAL_EFFECTOR.pdb <https://github.com/DraLaylaHirsh/MRFprofilesCreation/blob/780e8c5160e553ce8ee3e7b6ca540f47732cbc6e/resultsTAL_EFFECTOR.pdb>`_
 
 `resultsTAL_EFFECTOR.afasta <https://github.com/DraLaylaHirsh/MRFprofilesCreation/blob/780e8c5160e553ce8ee3e7b6ca540f47732cbc6e/resultsTAL_EFFECTOR.afasta>`_
 
-To see the results pdb you can use pymol and to see the afasta you can use belvu or seaview.
+To see the resulting pdb you can use pymol and to see the afasta resulting file you can use belvu or seaview.
 
 
 
