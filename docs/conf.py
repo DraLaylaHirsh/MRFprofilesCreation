@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = u'CreationMRFprofiles'
+project = u'MRF profiles creation'
 copyright = u'2022, Layla Hirsh'
 author = u'Layla Hirsh'
 
