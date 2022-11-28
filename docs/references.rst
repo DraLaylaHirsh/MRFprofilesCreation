@@ -18,3 +18,5 @@ Nucleic Acids Research 2020 doi.org/10.1093/nar/gkaa1097
 Pagni M, Niculita-Hirzel H, Pellissier L, Dubuis A, Xenarios I, Guisan A, Sanders IR, Goudet J, Guex N. Density-based hierarchical clustering of pyro-sequences on a large scale - the case of fungal ITS1. Bioinformatics. 2013 May 15;29(10):1268-74. doi: 10.1093/bioinformatics/btt149. PubMed PMID: 23539304 ; PubMed Central PMCID: PMC3654712.
 
 Schmid-Siegert E, Richard S, Luraschi A, Mühlethaler K, Pagni M, Hauser PM. Mechanisms of Surface Antigenic Variation in the Human Pathogenic Fungus Pneumocystis jirovecii. MBio. 2017 Nov 7;8(6). pii: e01470-17. doi: 10.1128/mBio.01470-17. PubMed PMID: 29114024; PubMed Central PMCID: PMC5676039.
+
+Konagurthu AS, Whisstock JC, Stuckey PJ, Lesk AM. MUSTANG: a multiple structural alignment algorithm. Proteins. 2006 Aug 15;64(3):559-74. doi: 10.1002/prot.20921. PMID: 16736488.
