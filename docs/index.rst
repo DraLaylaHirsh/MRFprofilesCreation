@@ -3,6 +3,10 @@
 Welcome to MRFprofiles Creation
 ###########################################
 
+************
+Introduction
+************
+
 Introduction
 ============
 
@@ -26,19 +30,13 @@ Check out the :doc:`CreationProcess` section for the explanation of how :ref:`pr
 
 
 
-********
-Contents
-********
-
 .. toctree::
-   :maxdepth: 2
 
    Usefulllinks
    Requirements
    mustangHowto
    CreationProcess
    references
-
 
 **********
 References
