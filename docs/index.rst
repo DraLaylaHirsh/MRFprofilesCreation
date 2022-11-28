@@ -1,7 +1,7 @@
 
-###########################################
+###############################
 Welcome to MRFprofiles Creation
-###########################################
+###############################
 
 ************
 Introduction
@@ -27,13 +27,26 @@ Check out the :doc:`CreationProcess` section for the explanation of how :ref:`pr
 
 
 
+
+*************************
+Before creating a profile
+*************************
+
 .. toctree::
 
    Usefulllinks
    Requirements
    mustangHowto
+ 
+****************** 
+Creating a profile
+******************
+
+.. toctree::
+
    CreationProcess
-   references
+
+
 
 **********
 References
