@@ -30,7 +30,7 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme'
+#html_theme = 'sphinx_rtd_theme'
 #html_logo = '4gg4.png'
 
 latex_logo =  'REFRACT.png'
