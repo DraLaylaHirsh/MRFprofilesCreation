@@ -79,7 +79,7 @@ for prot in found:
             obtained.append(prot)
             countnew=countnew+1
 
-print("There are "+str(count)+" protein chains that where present in the profile")
+
 print("The profile retrieve "+str(countnew)+" protein chains in the search")
 print("The missing proteins to retrieve are: "+ str(cpyFromProfile))
 
@@ -99,8 +99,7 @@ for prot in newfound:
             countnew=countnew+1
 
 
-print("There are "+str(count)+" protein chains that where present in the profile")
-print("The profile retrieve "+str(countnew)+" protein chains in the search")
+print("The autoscaled profile retrieve "+str(countnew)+" protein chains in the search")
 print("The missing proteins to retrieve are: "+ str(cpyFromProfile))
 
 for desc in founddesc:
