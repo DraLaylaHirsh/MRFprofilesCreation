@@ -1,17 +1,11 @@
 Links
 =====
 
-From the ftp:
-https://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/ you can download:
+PFAM database has a mapping of the pdbs and the corresponding protein family. You can download the file pdbmap.gz from the ftp:
+:code::
+  https://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/ 
 
-pdbmap.gz that contains a mapping of pdb in PFAM database
-pfamseq.gz that contains a mapping of sequences in PFAM database
-  
-From the link:
-https://www.rcsb.org/docs/programmatic-access/file-download-services you can download:
-
-the complete pdb or just download the pdb_seqres file from:
-
-The pdb sequences can be downloaded from:
-https://ftp.wwpdb.org/pub/pdb/derived_data/pdb_seqres.txt.gz
+From RCSB PDB databank you can download the pdb_seqres file that contains all the sequences from the pdbs allocated in the database. The link to download it is:
+:code::
+  https://ftp.wwpdb.org/pub/pdb/derived_data/pdb_seqres.txt.gz
   
