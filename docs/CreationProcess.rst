@@ -184,6 +184,12 @@ To run the scripts you can use one of the following commands:
 Linear Results
 ---------------
 
+After running the script you will have the following files
+*pfwTAL_EFFECTORLinear.msf
+*TAL_EFFECTORLinear.prf
+*searchLinearResultsTAL_EFFECTORLinear
+*newTAL_EFFECTORLinear.prf
+*autoscalingsearchLinearrResultsTAL_EFFECTORLinear
 
 
 .. _Circular Results:
