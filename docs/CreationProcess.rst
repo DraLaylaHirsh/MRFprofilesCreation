@@ -213,3 +213,77 @@ In the output you can observe that the profile without the autoscaling retrieves
 
 Circular Results
 ---------------
+
+The output of the verification tells you:
+The profile retrieve 104 protein chains in the search
+The missing proteins to retrieve are: []
+The profile retrieve 197 protein chains in the search
+The missing proteins to retrieve are: []
+These are the new findings to verify:
+ARMADILLO REPEAT PROTEIN ARM00027
+ARMADILLO REPEAT PROTEIN ARM00016
+Armadillo repeat protein
+Armadillo-repeat Protein
+De Novo Protein OR329
+Arm00011
+Arm00008
+Arm00010
+YIII_M5_AII
+YIII_M4_AII
+DESIGNED ARMADILLO REPEAT PROTEIN YIIIM5AII
+YIII(Dq)4CqI
+YIIIM5AII
+YIIIM''6AII
+YIII(Dq.V2)4CqI
+YIII(Dq.V1)4CPAF
+YIIIM6AII_GS11_(KR)5
+Importin subunit alpha
+cPPR-Telo1
+KR4KLSF Lock1
+DARPin-Armadillo fusion A5
+ength:240  Designed Armadillo Repeat Protein N(A4)M4C(AII)
+Designed Armadillo Repeat Protein N(A4)M4C(AII)
+These are the new findings to verify all the details:
+('16.885', '2kq5_A', 'Avirulence protein')
+('115.626', '2ypf_A', 'AVRBS3')
+('97.466', '3ugm_A', 'TAL effector AvrBs3/PthA')
+('120.548', '3v6p_A', 'dHax3')
+('121.765', '4cj9_A', 'BURRH')
+('9.601', '4d49_A', 'ARMADILLO REPEAT PROTEIN ARM00027')
+('9.086', '4d4e_A', 'ARMADILLO REPEAT PROTEIN ARM00016')
+('9.000', '4db6_A', 'Armadillo repeat protein')
+('9.472', '4db8_A', 'Armadillo-repeat Protein')
+('121.979', '4gg4_A', 'Hax3')
+('86.876', '4hpz_A', 'dTale2')
+('11.547', '4hxt_A', 'De Novo Protein OR329')
+('10.302', '4pjq_A', 'Pentatricopeptide repeat protein')
+('10.574', '4plq_A', 'Arm00011')
+('10.574', '4plr_A', 'Arm00008')
+('10.574', '4pls_A', 'Arm00010')
+('17.901', '4rv1_A', 'Engineered Protein OR497')
+('14.509', '4rzp_A', 'Engineered Protein OR366')
+('10.688', '4v3o_A', 'YIII_M5_AII')
+('9.071', '4v3q_A', 'YIII_M4_AII')
+('12.234', '5aei_A', 'DESIGNED ARMADILLO REPEAT PROTEIN YIIIM5AII')
+('8.885', '5mfb_A', 'YIII(Dq)4CqI')
+('12.234', '5mfc_A', 'YIIIM5AII')
+('12.406', '5mfd_A', "YIIIM''6AII")
+('9.415', '5mfi_A', 'YIII(Dq.V2)4CqI')
+('9.601', '5mfk_A', 'YIII(Dq.V1)4CPAF')
+('13.851', '5mfl_A', '(KR)5_GS10_YIIIM6AII')
+('13.479', '5mfm_A', 'YIIIM6AII_GS11_(KR)5')
+('13.479', '5mfm_C', 'Importin subunit alpha')
+('12.778', '5orm_A', 'cPPR-Telo1')
+('121.507', '6jtq_A', 'TAL effector')
+('11.876', '6s9l_A', 'KR4KLSF Lock1')
+('14.295', '6s9m_A', 'Lock2_KRKRKAKITW')
+('14.724', '6s9n_A', 'Lock2_KRKRKAKLSF')
+('14.824', '6s9o_A', 'designed Armadillo repeat protein with internal Lock1 fused to target peptide KRKRKLKFKR')
+('15.168', '6s9p_A', 'internal Lock2 fused to target peptide KRKAKITWKR')
+('10.002', '6sa6_A', 'DARPin-Armadillo fusion A5')
+('13.779', '6sa7_A', 'DARPin-Armadillo fusion C8long83')
+('14.352', '6sa8_A', 'ring-like DARPin-Armadillo fusion H83_D01')
+('10.245', '7qnp_AAA', 'ength:240  Designed Armadillo Repeat Protein N(A4)M4C(AII)')
+('9.286', '7r0r_A', 'Designed Armadillo Repeat Protein N(A4)M4C(AII)')
+
+In the output you can observe that the profile without the autoscaling retrieves 104 protein chains, and they include the ones used in the profile. Then, considering the autoscaling profile 197 protein chains were retrieved, and again they include the ones used in the profile. Finally a list of the new protein chains found using the autoscaling profiles is shown.
