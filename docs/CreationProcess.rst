@@ -222,6 +222,16 @@ Circular Results
 ---------------
 After running the script you will have the following files:
 
+*autoscalingsearchCircularResults_TAL_EFFECTORcircular
+
+*newTAL_EFFECTORcircular.prf
+
+*searchCircularResults_TAL_EFFECTORcircular
+
+*TAL_EFFECTORcircular.prf
+
+*pfwTAL_EFFECTORcircular.msf
+
 .. code-block::
 
   The output of the verification tells you:
