@@ -31,9 +31,9 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
-html_logo = '4gg4.png'
+#html_logo = '4gg4.png'
 
-latex_logo =  'refract.svg'
+latex_logo =  'REFRACT.png'
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
