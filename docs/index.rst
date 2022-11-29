@@ -22,7 +22,7 @@ For the creation of the initial sequence and structure alignments, if you are us
 Check out the :doc:`CreationProcess` section for the explanation of how :ref:`process` to create a new profile and search the matching results in a database.
 
 .. note::
-
+   This document was created during a REFRACT secondment made by Layla Hirsh at Andrey Kajava's laboratory 
    This project is under active development.
 
 
