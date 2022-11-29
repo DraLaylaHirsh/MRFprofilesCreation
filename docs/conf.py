@@ -7,11 +7,11 @@ copyright = u'2022, Layla Hirsh'
 author = u'Layla Hirsh'
 
 
-release = '0.1'
-version = '0.1.0'
+release = '1'
+version = '1.0'
 
 # -- General configuration
-
+html_theme = 'sphinx_rtd_theme'
 extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
