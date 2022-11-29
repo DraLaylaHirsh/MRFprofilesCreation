@@ -9,11 +9,12 @@ Process
 
 .. image:: /images/CreationProcess.png
   :width: 600
-  :alt: "Alternative text"
+Figure 1: Creation and use of circular an linear profile
 
-The steps 1, 2, and 3 are part of an iterative process. 
-In this particular case, we use a cluster of the pdb fragments from the SRUL library and evaluate all the cluster units as following:
-Using TAL_Effector cluster, it contains the following units:
+The process shown in figure 1 try to explain all the steps for the creation and use of not only circular, but also linear profiles. The steps 1, 2, and 3 are part of an iterative process for both types of profiles. 
+To show how the process would be, we explain all the process using the Tal effector protein family, and a set of representative repeat units obtained from RepeatsDB database and the SRUL library.
+
+In this particular case, we identify the following pdb fragments from the SRUL library, each unit has the pdb id, the chain id, and the starting and ending position of the repeat unit:
 
 4cj9A_490_522_reg1
   
@@ -65,8 +66,8 @@ Using TAL_Effector cluster, it contains the following units:
   
 4cj9A_226_258_reg1
 
-so, the first step is done, then we need to create the .mus file by using the following text, 
-assuming that the fragments (or the SRUL folder is in /home/mypc/SRUL/) and saving it with the name TAL_EFFECTOR.mus:
+After identifying the structures you want to align,we need to create the .mus file by using the following text, 
+assuming that the fragments (or the SRUL folder is in /home/mypc/SRUL/) and saving it with the name TAL_EFFECTOR.mus, if you have any doubt you can read the section :doc:`mustangHowto` :
 
 >/home/mypc/SRUL/
   
@@ -137,22 +138,28 @@ Mustang Results
 The sequence alignment given by mustang and using belvu would be observed as following:
 
 .. image:: /images/MSA.png
+  :width: 600
+Figure 2: Multiple sequence alignment, mustang output, shown by Belvu.
 
 The structure alignment given by mustang and using pymol as ribbon would be observed as following:
 
 .. image:: /images/superimpColor.png
+  :width: 600
+Figure 3: Superimposition of pdb fragments, mustang output, shown using pymol and ribbon representation.
 
 The structure alignment given by mustang and using pymol as sticks would be observed as following:
 
 .. image:: /images/superimposition.png
+  :width: 600
+Figure 3: Superimposition of pdb fragments, mustang output, shown using pymol and sticks representation.
 
 .. _Profile Creation:
 
 Profile creation
 ----------------
 
-Once we have a sequence alignment that consider as correct, we need to decide if we will use circular or a linear profile. In case you want a circular 
-profile just save the alignment as a msf, if you want a linear profile you need to make a copy of the sequence alignment and put them together as many times as needed. 
+Once we have a sequence alignment that is consider as correct, we need to decide if we will use circular or a linear profile. In case you want a circular 
+profile just save the alignment as a msf, if you want a linear profile you need to make a copy of the sequence alignment and put them together as many times as needed, one after the other and with no spaces in between. 
 
 You can see the example files (this examples are based on the raw results from mustang).  
 
@@ -176,7 +183,7 @@ To run the scripts you can use one of the following commands:
 
   $./runLinearProfile.sh TAL_EFFECTORLinear
 
- RunCircular
+.. code-block:: RunCircular
 
   $./runCircularProfile.sh TAL_EFFECTOR
 
@@ -197,7 +204,7 @@ After running the script you will have the following files:
 
 *autoscalingsearchLinearrResultsTAL_EFFECTORLinear
 
-
+The output would be like:
 .. code-block::
 
   The output of the verification tells you:
@@ -233,6 +240,8 @@ After running the script you will have the following files:
 
 *pfwTAL_EFFECTORcircular.msf
 
+
+The output would be like:
 .. code-block::
 
   The output of the verification tells you:
