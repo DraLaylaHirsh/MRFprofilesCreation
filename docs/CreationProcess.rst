@@ -138,20 +138,20 @@ Mustang Results
 The sequence alignment given by mustang and using belvu would be observed as following:
 
 .. image:: /images/MSA.png
-  :width: 600
+  :width: 400
 Figure 2: Multiple sequence alignment, mustang output, shown by Belvu.
 
 The structure alignment given by mustang and using pymol as ribbon would be observed as following:
 
 .. image:: /images/superimpColor.png
-  :width: 600
+  :width: 400
 Figure 3: Superimposition of pdb fragments, mustang output, shown using pymol and ribbon representation.
 
 The structure alignment given by mustang and using pymol as sticks would be observed as following:
 
 .. image:: /images/superimposition.png
-  :width: 600
-Figure 3: Superimposition of pdb fragments, mustang output, shown using pymol and sticks representation.
+  :width: 400
+Figure 4: Superimposition of pdb fragments, mustang output, shown using pymol and sticks representation.
 
 .. _Profile Creation:
 
