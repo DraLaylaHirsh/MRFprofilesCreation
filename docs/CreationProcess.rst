@@ -8,8 +8,8 @@ Process
 
 
 .. image:: /images/CreationProcess.png
-  :width: 400
-  :alt: Alternative text
+  :width: 600
+  :alt: "Alternative text"
 
 The steps 1, 2, and 3 are part of an iterative process. 
 In this particular case, we use a cluster of the pdb fragments from the SRUL library and evaluate all the cluster units as following:
