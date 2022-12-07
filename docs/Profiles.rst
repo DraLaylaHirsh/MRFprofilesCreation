@@ -6,30 +6,47 @@ We are considering the structural classification as defined in RepeatsDB :
 Class III: Elongated Structures
 
   Subclass 1 : Beta Solenoids
+  
   Subclass 2 : Alpha Beta Solenoids
+  
   Subclass 3 : Alpha Solenoids
+  
   Subclass 4 : 
+  
   Subclass 5 :
   
 Class IV: Closed Structures
 
   Subclass 1 : Tim Barrel
+  
   Subclass 2 : Beta Barrel
+  
   Subclass 3 : Trefoil
+  
   Subclass 4 : Beta Propeller
+  
   Subclass 5 :
+  
   Subclass 6 : 
+  
   Subclass 7 :  
+  
   Subclass 8 : 
+  
   Subclass 9 :  
+  
   Subclass 10 : 
   
 Class V: Beads on string
 
   Subclass 1 : Tim Barrel
+  
   Subclass 2 : Beta Barrel
+  
   Subclass 3 : Trefoil
+  
   Subclass 4 : Beta Propeller
+  
   Subclass 5 :
   
 The profiles can be classified by the structural classes and inside them you can identify the diferent profiles that are used to retrive some subclasses or PFam families. In the following lines we will present a description of each of them.
