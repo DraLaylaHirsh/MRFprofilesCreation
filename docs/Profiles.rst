@@ -2,7 +2,9 @@ Profiles Description
 ====================
 
 We are considering the structural classification as defined in RepeatsDB :
+
 Class III: Elongated Structures
+
   Subclass 1 : Beta Solenoids
   Subclass 2 : Alpha Beta Solenoids
   Subclass 3 : Alpha Solenoids
@@ -10,6 +12,7 @@ Class III: Elongated Structures
   Subclass 5 :
   
 Class IV: Closed Structures
+
   Subclass 1 : Tim Barrel
   Subclass 2 : Beta Barrel
   Subclass 3 : Trefoil
@@ -22,6 +25,7 @@ Class IV: Closed Structures
   Subclass 10 : 
   
 Class V: Beads on string
+
   Subclass 1 : Tim Barrel
   Subclass 2 : Beta Barrel
   Subclass 3 : Trefoil
