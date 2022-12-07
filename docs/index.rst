@@ -46,7 +46,13 @@ Creating a profile
 
    CreationProcess
 
+********************* 
+Profiles descriptions
+*********************
 
+.. toctree::
+
+   Profiles
 
 **********
 References
