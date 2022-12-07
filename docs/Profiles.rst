@@ -56,16 +56,27 @@ The profiles can be classified by the structural classes and inside them you can
 Class 3:
 --------
 
-III3_ANK_RDB : 
+III3_ANK_RDB (Alpha solenoid): 
 
-Ankyrin repeats (ANK) are tandemly repeated modules of about 33 amino acids. They occur in a large number of functionally diverse proteins mainly from eukaryotes. The few known examples from prokaryotes and viruses may be the result of horizontal gene transfers [PMID:8108379]. Many ankyrin repeat regions are known to function as protein-protein interaction domains. The conserved fold of the ankyrin repeat unit is known from several crystal and solution structures, e.g. from: - p53-binding protein 53BP2 [PMID:8875926], - Cyclin-dependent kinase inhibitor p19Ink4d [PMID:9353127] , - Transcriptional regulator GABP-beta [PMID:9461436], - NF-kappaB inhibitory protein IkB-alpha[PMID:9865693]. It has been described as an L-shaped structure consisting of a beta-hairpin and two alpha-helices[PMID:8875926]
-.
-III3_ARM_RDB: The armadillo (Arm) repeat is an approximately 40 amino acid long tandemly repeated sequence motif first identified in the Drosophila melanogaster segment polarity gene armadillo involved in signal transduction through wingless. Animal Arm-repeat proteins function in various processes, including intracellular signalling and cytoskeletal regulation, and include such proteins as beta-catenin, the junctional plaque protein plakoglobin, the adenomatous polyposis coli (APC) tumour suppressor protein, and the nuclear transport factor importin-alpha, amongst others. A subset of these proteins is conserved across eukaryotic kingdoms. In higher plants, some Arm-repeat proteins function in intracellular signalling like their mammalian counterparts, while others have novel functions.The 3-dimensional fold of an armadillo repeat is known from the crystal structure of beta-catenin, where the 12 repeats form a superhelix of alpha helices with three helices per unit. The cylindrical structure features a positively charged grove, which presumably interacts with the acidic surfaces of the known interaction partners of beta-catenin.
+Ankyrin repeats (ANK) are tandemly repeated modules of about 33 amino acids. They occur in a large number of functionally diverse proteins mainly from eukaryotes. The few known examples from prokaryotes and viruses may be the result of horizontal gene transfers [PMID:8108379]. Many ankyrin repeat regions are known to function as protein-protein interaction domains. The conserved fold of the ankyrin repeat unit is known from several crystal and solution structures, e.g. from: - p53-binding protein 53BP2 [PMID:8875926], - Cyclin-dependent kinase inhibitor p19Ink4d [PMID:9353127] , - Transcriptional regulator GABP-beta [PMID:9461436], - NF-kappaB inhibitory protein IkB-alpha[PMID:9865693]. It has been described as an L-shaped structure consisting of a beta-hairpin and two alpha-helices[PMID:8875926].
 
-III3_HEAT_RDB: A HEAT repeat is a protein tandem repeat structural motif composed of two alpha helices linked by a short loop. HEAT repeats can form alpha solenoids, a type of solenoid protein domain found in a number of cytoplasmic proteins. The name "HEAT" is an acronym for four proteins in which this repeat structure is found: Huntingtin, elongation factor 3 (EF3), protein phosphatase 2A (PP2A), and the yeast kinase TOR1. HEAT repeats form extended superhelical structures which are often involved in intracellular transport; they are structurally related to armadillo repeats. The nuclear transport protein importin beta contains 19 HEAT repeats.
 
-  III3_IMB_RDB
-  III3_PF00004_RDB: AAA family proteins often perform chaperone-like functions that assist in the assembly, operation, or disassembly of protein complexes
+III3_ARM_RDB (Alpha solenoid): 
+
+The armadillo (Arm) repeat is an approximately 40 amino acid long tandemly repeated sequence motif first identified in the Drosophila melanogaster segment polarity gene armadillo involved in signal transduction through wingless. Animal Arm-repeat proteins function in various processes, including intracellular signalling and cytoskeletal regulation, and include such proteins as beta-catenin, the junctional plaque protein plakoglobin, the adenomatous polyposis coli (APC) tumour suppressor protein, and the nuclear transport factor importin-alpha, amongst others. A subset of these proteins is conserved across eukaryotic kingdoms. In higher plants, some Arm-repeat proteins function in intracellular signalling like their mammalian counterparts, while others have novel functions.The 3-dimensional fold of an armadillo repeat is known from the crystal structure of beta-catenin, where the 12 repeats form a superhelix of alpha helices with three helices per unit. The cylindrical structure features a positively charged grove, which presumably interacts with the acidic surfaces of the known interaction partners of beta-catenin.
+
+
+III3_HEAT_RDB (Alpha solenoid): 
+
+A HEAT repeat is a protein tandem repeat structural motif composed of two alpha helices linked by a short loop. HEAT repeats can form alpha solenoids, a type of solenoid protein domain found in a number of cytoplasmic proteins. The name "HEAT" is an acronym for four proteins in which this repeat structure is found: Huntingtin, elongation factor 3 (EF3), protein phosphatase 2A (PP2A), and the yeast kinase TOR1. HEAT repeats form extended superhelical structures which are often involved in intracellular transport; they are structurally related to armadillo repeats. The nuclear transport protein importin beta contains 19 HEAT repeats.
+
+
+III3_IMB_RDB (Alpha solenoid):
+
+
+  
+III3_PF00004_RDB (Alpha solenoid): 
+AAA family proteins often perform chaperone-like functions that assist in the assembly, operation, or disassembly of protein complexes
   [PMID:9927482]
   III3_PF00244_RDB
   III3_PF00310_RDB
