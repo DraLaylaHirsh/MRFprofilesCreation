@@ -52,7 +52,10 @@ Profiles descriptions
 
 .. toctree::
 
+   DataDownload
    Profiles
+   SomeResults
+   
 
 **********
 References
