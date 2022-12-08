@@ -2,6 +2,51 @@ Results of a search in PDB
 ==========================
 The following results are calculated based on RepeatsDB annotation and using all the PDB sequences. The search is done using pfsearch.
 
+Considering all profiles the results are:
+
+In class 3.1 profiles found 5 pdb chains
+
+In class 3.2 profiles found 138 pdb chains
+
+In class 3.3 profiles found 4917 pdb chains
+
+In class 3.4 profiles found 6 pdb chains
+
+In class 3.6 profiles found 3 pdb chains
+
+In class 4.1 profiles found 2467 pdb chains
+
+In class 4.2 profiles found 454 pdb chains
+
+In class 4.3 profiles found 78 pdb chains
+
+In class 4.4 profiles found 5014 pdb chains
+
+In class 4.5 profiles found 408 pdb chains
+
+In class 4.6 profiles found 40 pdb chains
+
+In class 4.7 profiles found 20 pdb chains
+
+In class 4.9 profiles found 232 pdb chains
+
+In class 4.10 profiles found 180 pdb chains
+
+In class 5.1 profiles found 4 pdb chains
+
+In class 5.2 profiles found 101 pdb chains
+
+In class 5.3 profiles found 290 pdb chains
+
+In class 5.4 profiles found 68 pdb chains
+
+In class 5.5 profiles found 337 pdb chains
+
+Total PDB chains found in RepeatsDB that were retrieved by the search: 14762
+
+Total PDB chains not found in RepeatsDB that were retrieved by the search: 46703
+
+
 III3_ANK_RDB_C
 --------------
 
