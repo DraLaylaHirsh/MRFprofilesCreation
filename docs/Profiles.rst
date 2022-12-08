@@ -56,17 +56,19 @@ The profiles can be classified by the structural classes and inside them you can
 Class III profiles descriptions:
 --------------------------------
 
+III3_ARM_RDB (Alpha solenoid): 
+
+The armadillo (Arm) repeat is an approximately 40 amino acid long tandemly repeated sequence motif first identified in the Drosophila melanogaster segment polarity gene armadillo involved in signal transduction through wingless. Animal Arm-repeat proteins function in various processes, including intracellular signalling and cytoskeletal regulation, and include such proteins as beta-catenin, the junctional plaque protein plakoglobin, the adenomatous polyposis coli (APC) tumour suppressor protein, and the nuclear transport factor importin-alpha, amongst others. A subset of these proteins is conserved across eukaryotic kingdoms. In higher plants, some Arm-repeat proteins function in intracellular signalling like their mammalian counterparts, while others have novel functions.The 3-dimensional fold of an armadillo repeat is known from the crystal structure of beta-catenin, where the 12 repeats form a superhelix of alpha helices with three helices per unit. The cylindrical structure features a positively charged grove, which presumably interacts with the acidic surfaces of the known interaction partners of beta-catenin.
+
+.. image:: /images/pfwARM.png
+
+
 III3_ANK_RDB (Alpha solenoid): 
 
 Ankyrin repeats (ANK) are tandemly repeated modules of about 33 amino acids. They occur in a large number of functionally diverse proteins mainly from eukaryotes. The few known examples from prokaryotes and viruses may be the result of horizontal gene transfers [PMID:8108379]. Many ankyrin repeat regions are known to function as protein-protein interaction domains. The conserved fold of the ankyrin repeat unit is known from several crystal and solution structures, e.g. from: - p53-binding protein 53BP2 [PMID:8875926], - Cyclin-dependent kinase inhibitor p19Ink4d [PMID:9353127] , - Transcriptional regulator GABP-beta [PMID:9461436], - NF-kappaB inhibitory protein IkB-alpha[PMID:9865693]. It has been described as an L-shaped structure consisting of a beta-hairpin and two alpha-helices[PMID:8875926].
 
 .. image:: /images/pfwIII3_ANK.png
 
-III3_ARM_RDB (Alpha solenoid): 
-
-The armadillo (Arm) repeat is an approximately 40 amino acid long tandemly repeated sequence motif first identified in the Drosophila melanogaster segment polarity gene armadillo involved in signal transduction through wingless. Animal Arm-repeat proteins function in various processes, including intracellular signalling and cytoskeletal regulation, and include such proteins as beta-catenin, the junctional plaque protein plakoglobin, the adenomatous polyposis coli (APC) tumour suppressor protein, and the nuclear transport factor importin-alpha, amongst others. A subset of these proteins is conserved across eukaryotic kingdoms. In higher plants, some Arm-repeat proteins function in intracellular signalling like their mammalian counterparts, while others have novel functions.The 3-dimensional fold of an armadillo repeat is known from the crystal structure of beta-catenin, where the 12 repeats form a superhelix of alpha helices with three helices per unit. The cylindrical structure features a positively charged grove, which presumably interacts with the acidic surfaces of the known interaction partners of beta-catenin.
-
-.. image:: /images/pfwARM.png
 
 III3_HEAT_RDB (Alpha solenoid): 
 
@@ -97,7 +99,10 @@ AAA family proteins often perform chaperone-like functions that assist in the as
   III3_PF01730_RDB
   III3_PF01851_RDB
   III3_PPTA_RDB
-  III3_PUF_RDB
+
+III3_PUF_RDB:
+
+Puf repeats (aka PUM-HD, Pumilio homology domain) are necessary and sufficient for sequence specific RNA binding in fly Pumilio and worm FBF-1 and FBF-2. Both proteins function as translational repressors in early embryonic development by binding sequences in the 3' UTR of target mRNAs (e.g. the nanos response element (NRE) in fly Hunchback mRNA, or the point mutation element (PME) in worm fem-3 mRNA). Other proteins that contain Puf domains are also plausible RNA binding proteins. Swiss:P47135, for instance, appears to also contain a single RRM domain by HMM analysis. Puf domains usually occur as a tandem repeat of 8 domains. The Pfam model does not necessarily recognise all 8 repeats in all sequences; some sequences appear to have 5 or 6 repeats on initial analysis, but further analysis suggests the presence of additional divergent repeats. Structures of PUF repeat proteins show they consist of a two helix structure [PMID:11336677, PMID:11336708].
   III3_SEL1_RDB
   III3_TAL_RDB
   III3_TPR_RDB
