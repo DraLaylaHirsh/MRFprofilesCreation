@@ -54,6 +54,7 @@ Profiles descriptions
 
    DataDownload
    Profiles
+   PDBresults
    SomeResults
    
 
