@@ -231,7 +231,7 @@ III3_PF00794
 
 In class 3.3 profiles found 15 pdb chains
 
-Representative `1b89 <https://www.rcsb.org/structure/1b89>`_ chain A
+Representative `3lvh <https://www.rcsb.org/structure/3lvh>`_ chain B
 
 Other found pdb chains not in RepeatsDB 50
 
@@ -241,7 +241,7 @@ III3_PF00794_L
 
 In class 3.3 profiles found 10 pdb chains
 
-Representative `1b89 <https://www.rcsb.org/structure/1b89>`_ chain A
+Representative `3lvh <https://www.rcsb.org/structure/3lvh>`_ chain B
 
 Other found pdb chains not in RepeatsDB 12
 
