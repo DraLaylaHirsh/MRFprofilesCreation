@@ -54,6 +54,9 @@ Created Profiles
 
 .. toctree::
 
+   DataDownload
+   Profiles
+   PDBresults   
    SomeResults
 
 **********
