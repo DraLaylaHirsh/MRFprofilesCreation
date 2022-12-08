@@ -2,9 +2,11 @@
 
 # -- Project information
 
-project = u'MRF profiles creation'
+project = u'Final Report'
 copyright = u'2022, Layla Hirsh'
 author = u'Layla Hirsh'
+author = u'P.I. Andrey Kajava'
+
 
 
 release = '1'
