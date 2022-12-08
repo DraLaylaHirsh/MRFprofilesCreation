@@ -3,11 +3,11 @@ Some results for Reference organism
 ===================================
 
 Using the profiles created during the secondment, we run Meta Repeat finder on different organisms from the super kingdom Archaea, Bacteria and Eukariota.
-The results of each of them are presented in the following sections. Finally, in the last section we can se the repeat presence in a percentage inside all of them.
+The results of each of them are presented in the following sections. Finally, in the last section we can see the repeat presence in a percentage inside all of them.
 
 Archaea
 -------
-This graphic show as how Tim Barrels are highly present in all the archea organisms. We also can observe that in all of them there are always Beta Propellers some non solenoids and Closed Structutes from Class 4 that are not Beta Barrels, nor Tim Barrel nor Beta Propeller.
+This graphic show as how TIM Barrels are highly present in all the archea organisms. We also can observe that in all of them there are always Beta Propellers some non solenoids and Closed Structutes from Class 4 that are not Beta Barrels, nor TIM Barrel nor Beta Propeller.
 In almost all cases there are Alpha and Beta solenoids present, as expected.
 
 .. image:: /images/ArchaeaStructuralRepeatDistributioninOrganismReference.png
@@ -15,14 +15,14 @@ In almost all cases there are Alpha and Beta solenoids present, as expected.
 Bacteria
 --------
 This graphic show as how Alpha Solenoids are present in all the bacteria organisms. We also can observe that in all of them there are always Non solenoid.
-In almost all cases there are Tim Barrels and Beta Propellers present.
+In almost all cases there are TIM Barrels and Beta Propellers present.
 
 .. image:: /images/BacteriaStructuralRepeatDistributioninOrganismReference.png
  
 
 Eukariota
 ---------
-This graphic show as how Alpha Solenoids are highly present in all the Eukariota organisms. We also can observe that in all of them there are always Alpha Beta Solenoids, Beta Propellers,  Non solenoids, Zinc Fingers and Closed Structutes from Class 4 that are not Beta Barrels, nor Tim Barrel nor Beta Propeller. In almost all cases there are  Beta solenoids, Beta Barrels, Tim barrels, Other beads on String different to Zinc Fingers present, as expected.
+This graphic show as how Alpha Solenoids are highly present in all the Eukariota organisms. We also can observe that in all of them there are always Alpha Beta Solenoids, Beta Propellers,  Non solenoids, Zinc Fingers and Closed Structutes from Class 4 that are not Beta Barrels, nor TIM Barrel nor Beta Propeller. In almost all cases there are  Beta solenoids, Beta Barrels, TIM barrels, Other beads on String different to Zinc Fingers present, as expected.
 
 .. image:: /images/EukariotaStructuralRepeatDistributioninOrganismReference.png
 
