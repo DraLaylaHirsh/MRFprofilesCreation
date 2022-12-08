@@ -2,6 +2,9 @@
 Some results for Reference organism
 ===================================
 
+Using the profiles created during the secondment, we run Meta Repeat finder on different organisms from the super kingdom Archaea, Bacteria and Eukariota.
+The results of each of them are presented in the following sections. Finally, in the last section we can se the repeat presence in a percentage inside all of them.
+
 Archaea
 -------
 This graphic show as how Tim Barrels are highly present in all the archea organisms. We also can observe that in all of them there are always Beta Propellers some non solenoids and Closed Structutes from Class 4 that are not Beta Barrels, nor Tim Barrel nor Beta Propeller.
