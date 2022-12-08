@@ -1,4 +1,4 @@
-Profiles Description
+Classes Description
 ====================
 
 We are considering the structural classification as defined in RepeatsDB :
@@ -52,6 +52,9 @@ Class V: Beads on string
   Subclass 5 : Beta Sandwich
   
 The profiles can be classified by the structural classes and inside them you can identify the diferent profiles that are used to retrive some subclasses or PFam families. In the following lines we will present a description of each of them.
+
+Profiles Description
+====================
 
 Class III profiles descriptions:
 --------------------------------
