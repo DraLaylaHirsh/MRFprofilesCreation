@@ -26,6 +26,9 @@ This graphic show as how Alpha Solenoids are highly present in all the Eukariota
 
 .. image:: /images/EukariotaStructuralRepeatDistributioninOrganismReference.png
 
+All
+---
+
 Finally, as shown in the following graph we can observe how in Archaea we can found the less quantity of repeat sequences, then we would find Bacteria, and the greatest number of repeat would be found inside Eukariota. In particular the Dario rerio organism(fish) with almost 10% of repeat found, then with almost 9% we can find Pan Pan_troglodytes(monkey), Xenopus_tropicalis, Mus_musculus, Bos_taurus and Homo_sapiens.
 
 .. image:: /images/RepeatsinSuperkingdom.png
