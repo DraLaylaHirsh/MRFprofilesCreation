@@ -19,6 +19,6 @@ In almost all cases there are Tim Barrels and Beta Propellers present.
 
 Eukariota
 ---------
-This graphic show as how Alpha Solenoids are highly present in all the Eukariota organisms. We also can observe that in all of them there are always Alpha Beta Solnoids, Beta Propellers,  Non solenoids, Zing Fingers and Closed Structutes from Class 4 that are not Beta Barrels, nor Tim Barrel nor Beta Propeller. In almost all cases there are  Beta solenoids, Beta Barrels, Tim barrels, Other beads on String different to Zing Fingers present, as expected.
+This graphic show as how Alpha Solenoids are highly present in all the Eukariota organisms. We also can observe that in all of them there are always Alpha Beta Solenoids, Beta Propellers,  Non solenoids, Zinc Fingers and Closed Structutes from Class 4 that are not Beta Barrels, nor Tim Barrel nor Beta Propeller. In almost all cases there are  Beta solenoids, Beta Barrels, Tim barrels, Other beads on String different to Zinc Fingers present, as expected.
 
 .. image:: /images/EukariotaStructuralRepeatDistributioninOrganismReference.png
