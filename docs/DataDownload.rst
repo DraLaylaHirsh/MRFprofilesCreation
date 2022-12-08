@@ -1,3 +1,6 @@
+Using structural information from RepeatsDB among others like PDB and InterPro we were able to create 62 linear profiles and 62 circular profiles. 
+In this chapter you will find not only the descriptions of each of them, but also some results and analisys on reference proteoms and the PDB databank.
+
 Download files
 ==============
 
