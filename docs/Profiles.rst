@@ -76,6 +76,9 @@ A HEAT repeat is a protein tandem repeat structural motif composed of two alpha 
 
 III3_IMB_RDB (Alpha solenoid):
 
+This family consists of the importin alpha (karyopherin alpha), importin beta (karyopherin beta) binding domain. The domain mediates formation of the importin alpha beta complex; required for classical NLS import of proteins into the nucleus, through the nuclear pore complex and across the nuclear envelope. Also in the alignment is the NLS of importin alpha which overlaps with the IBB domain
+[PMID:8692858]
+
 .. image:: /images/pfwImp.png
   
 III3_PF00004_RDB (Alpha solenoid): 
