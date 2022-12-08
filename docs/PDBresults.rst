@@ -2,7 +2,7 @@ Results of a search in PDB
 ==========================
 The following results are calculated based on RepeatsDB annotation and using all the PDB sequences. The search is done using pfsearch.
 
-III3_ANK_RDB_C.prf
+III3_ANK_RDB_C
 --------------
 
 In class 3.2 profiles found 1 pdb chains
@@ -14,7 +14,7 @@ In class 4.6 profiles found 1 pdb chains
 Other found pdb chains not in RepeatsDB 1243
 
 
-III3_ANK_RDB_L.prf
+III3_ANK_RDB_L
 --------------
 
 In class 3.3 profiles found 651 pdb chains
@@ -24,7 +24,7 @@ In class 4.6 profiles found 1 pdb chains
 Other found pdb chains not in RepeatsDB 1103
 
 
-III3_ARM_RDB_C.prf
+III3_ARM_RDB_C
 --------------
 
 In class 3.3 profiles found 301 pdb chains
@@ -32,7 +32,7 @@ In class 3.3 profiles found 301 pdb chains
 Other found pdb chains not in RepeatsDB 311
 
 
-III3_ARM_RDB_L.prf
+III3_ARM_RDB_L
 --------------
 
 In class 3.3 profiles found 306 pdb chains
@@ -40,7 +40,7 @@ In class 3.3 profiles found 306 pdb chains
 Other found pdb chains not in RepeatsDB 248
 
 
-III3_HEAT_RDB_C.prf
+III3_HEAT_RDB_C
 --------------
 
 In class 3.3 profiles found 229 pdb chains
@@ -48,7 +48,7 @@ In class 3.3 profiles found 229 pdb chains
 Other found pdb chains not in RepeatsDB 288
 
 
-III3_HEAT_RDB_L.prf
+III3_HEAT_RDB_L
 --------------
 
 In class 3.3 profiles found 126 pdb chains
@@ -56,7 +56,7 @@ In class 3.3 profiles found 126 pdb chains
 Other found pdb chains not in RepeatsDB 136
 
 
-III3_IMB_RDB_C.prf
+III3_IMB_RDB_C
 --------------
 
 In class 3.3 profiles found 200 pdb chains
@@ -64,7 +64,7 @@ In class 3.3 profiles found 200 pdb chains
 Other found pdb chains not in RepeatsDB 499
 
 
-III3_IMB_RDB_L.prf
+III3_IMB_RDB_L
 --------------
 
 In class 3.3 profiles found 297 pdb chains
@@ -256,7 +256,7 @@ In class 3.3 profiles found 4 pdb chains
 Other found pdb chains not in RepeatsDB 2
 
 
-III3_PPTA_RDB_C.prf
+III3_PPTA_RDB_C
 --------------
 
 In class 3.2 profiles found 2 pdb chains
@@ -266,7 +266,7 @@ In class 3.3 profiles found 154 pdb chains
 Other found pdb chains not in RepeatsDB 69
 
 
-III3_PPTA_RDB_L.prf
+III3_PPTA_RDB_L
 --------------
 
 In class 3.2 profiles found 2 pdb chains
@@ -276,7 +276,7 @@ In class 3.3 profiles found 155 pdb chains
 Other found pdb chains not in RepeatsDB 26
 
 
-III3_PUF_RDB_C.prf
+III3_PUF_RDB_C
 --------------
 
 In class 3.2 profiles found 12 pdb chains
@@ -286,7 +286,7 @@ In class 3.3 profiles found 90 pdb chains
 Other found pdb chains not in RepeatsDB 140
 
 
-III3_PUF_RDB_L.prf
+III3_PUF_RDB_L
 --------------
 
 In class 3.3 profiles found 79 pdb chains
@@ -294,7 +294,7 @@ In class 3.3 profiles found 79 pdb chains
 Other found pdb chains not in RepeatsDB 22
 
 
-III3_SEL1_RDB_C.prf
+III3_SEL1_RDB_C
 --------------
 
 In class 3.3 profiles found 32 pdb chains
@@ -302,7 +302,7 @@ In class 3.3 profiles found 32 pdb chains
 Other found pdb chains not in RepeatsDB 160
 
 
-III3_SEL1_RDB_L.prf
+III3_SEL1_RDB_L
 --------------
 
 In class 3.3 profiles found 22 pdb chains
@@ -310,7 +310,7 @@ In class 3.3 profiles found 22 pdb chains
 Other found pdb chains not in RepeatsDB 32
 
 
-III3_TAL_RDB_C.prf
+III3_TAL_RDB_C
 --------------
 
 In class 3.3 profiles found 43 pdb chains
@@ -318,7 +318,7 @@ In class 3.3 profiles found 43 pdb chains
 Other found pdb chains not in RepeatsDB 91
 
 
-III3_TAL_RDB_L.prf
+III3_TAL_RDB_L
 --------------
 
 In class 3.3 profiles found 43 pdb chains
@@ -326,7 +326,7 @@ In class 3.3 profiles found 43 pdb chains
 Other found pdb chains not in RepeatsDB 29
 
 
-III3_TPR_RDB_C.prf
+III3_TPR_RDB_C
 --------------
 
 In class 3.3 profiles found 420 pdb chains
@@ -334,7 +334,7 @@ In class 3.3 profiles found 420 pdb chains
 Other found pdb chains not in RepeatsDB 809
 
 
-III3_TPR_RDB_L.prf
+III3_TPR_RDB_L
 --------------
 
 In class 3.3 profiles found 405 pdb chains
@@ -342,7 +342,7 @@ In class 3.3 profiles found 405 pdb chains
 Other found pdb chains not in RepeatsDB 636
 
 
-IV1_L-2-keto-3_RDB_C.prf
+IV1_L-2-keto-3_RDB_C
 --------------
 
 In class 3.3 profiles found 4 pdb chains
@@ -544,7 +544,7 @@ In class 4.1 profiles found 150 pdb chains
 Other found pdb chains not in RepeatsDB 86
 
 
-IV1_TimBarrel_RDB_C.prf
+IV1_TimBarrel_RDB_C
 --------------
 
 In class 3.3 profiles found 13 pdb chains
@@ -564,7 +564,7 @@ In class 4.1 profiles found 100 pdb chains
 Other found pdb chains not in RepeatsDB 38
 
 
-IV2_Lipocalin_RDB_C.prf
+IV2_Lipocalin_RDB_C
 --------------
 
 In class 4.2 profiles found 133 pdb chains
@@ -574,7 +574,7 @@ In class 4.4 profiles found 48 pdb chains
 Other found pdb chains not in RepeatsDB 501
 
 
-IV2_Lipocalin_RDB_L.prf
+IV2_Lipocalin_RDB_L
 --------------
 
 In class 4.2 profiles found 104 pdb chains
@@ -584,7 +584,7 @@ In class 4.4 profiles found 2 pdb chains
 Other found pdb chains not in RepeatsDB 120
 
 
-IV2_Osta_RDB_C.prf
+IV2_Osta_RDB_C
 --------------
 
 In class 4.2 profiles found 6 pdb chains
@@ -594,13 +594,13 @@ In class 4.4 profiles found 10 pdb chains
 Other found pdb chains not in RepeatsDB 22
 
 
-IV2_Osta_RDB_L.prf
+IV2_Osta_RDB_L
 --------------
 
 Other found pdb chains not in RepeatsDB 0
 
 
-IV2_Porin1_RDB_C.prf
+IV2_Porin1_RDB_C
 --------------
 
 In class 4.2 profiles found 102 pdb chains
@@ -608,7 +608,7 @@ In class 4.2 profiles found 102 pdb chains
 Other found pdb chains not in RepeatsDB 169
 
 
-IV2_Porin1_RDB_L.prf
+IV2_Porin1_RDB_L
 --------------
 
 In class 4.2 profiles found 94 pdb chains
@@ -616,7 +616,7 @@ In class 4.2 profiles found 94 pdb chains
 Other found pdb chains not in RepeatsDB 103
 
 
-IV2_Porin3_RDB_C.prf
+IV2_Porin3_RDB_C
 --------------
 
 In class 3.1 profiles found 1 pdb chains
@@ -628,7 +628,7 @@ In class 4.4 profiles found 10 pdb chains
 Other found pdb chains not in RepeatsDB 98
 
 
-IV2_Porin3_RDB_L.prf
+IV2_Porin3_RDB_L
 --------------
 
 In class 4.2 profiles found 6 pdb chains
@@ -638,7 +638,7 @@ In class 4.4 profiles found 10 pdb chains
 Other found pdb chains not in RepeatsDB 16
 
 
-IV3_Btrefoil_RDB_C.prf
+IV3_Btrefoil_RDB_C
 --------------
 
 In class 4.3 profiles found 39 pdb chains
@@ -648,7 +648,7 @@ In class 4.9 profiles found 1 pdb chains
 Other found pdb chains not in RepeatsDB 167
 
 
-IV3_Btrefoil_RDB_L.prf
+IV3_Btrefoil_RDB_L
 --------------
 
 In class 4.3 profiles found 39 pdb chains
@@ -658,7 +658,7 @@ In class 4.9 profiles found 1 pdb chains
 Other found pdb chains not in RepeatsDB 86
 
 
-IV4_Kelch__RDB_C.prf
+IV4_Kelch__RDB_C
 --------------
 
 In class 4.4 profiles found 131 pdb chains
@@ -666,7 +666,7 @@ In class 4.4 profiles found 131 pdb chains
 Other found pdb chains not in RepeatsDB 177
 
 
-IV4_Kelch_RDB_C.prf
+IV4_Kelch_RDB_C
 --------------
 
 In class 4.4 profiles found 137 pdb chains
@@ -674,7 +674,7 @@ In class 4.4 profiles found 137 pdb chains
 Other found pdb chains not in RepeatsDB 143
 
 
-IV4_Kelch__RDB_L.prf
+IV4_Kelch__RDB_L
 --------------
 
 In class 4.4 profiles found 118 pdb chains
@@ -682,7 +682,7 @@ In class 4.4 profiles found 118 pdb chains
 Other found pdb chains not in RepeatsDB 106
 
 
-IV4_Kelch_RDB_L.prf
+IV4_Kelch_RDB_L
 --------------
 
 In class 4.4 profiles found 116 pdb chains
@@ -792,7 +792,7 @@ In class 4.4 profiles found 265 pdb chains
 Other found pdb chains not in RepeatsDB 62
 
 
-IV4_Pizza_RDB_C.prf
+IV4_Pizza_RDB_C
 --------------
 
 In class 4.4 profiles found 98 pdb chains
@@ -800,7 +800,7 @@ In class 4.4 profiles found 98 pdb chains
 Other found pdb chains not in RepeatsDB 103
 
 
-IV4_Pizza_RDB_L.prf
+IV4_Pizza_RDB_L
 --------------
 
 In class 4.4 profiles found 8 pdb chains
@@ -808,7 +808,7 @@ In class 4.4 profiles found 8 pdb chains
 Other found pdb chains not in RepeatsDB 14
 
 
-IV4_PpgL_RDB_C.prf
+IV4_PpgL_RDB_C
 --------------
 
 In class 4.4 profiles found 29 pdb chains
@@ -816,7 +816,7 @@ In class 4.4 profiles found 29 pdb chains
 Other found pdb chains not in RepeatsDB 17
 
 
-IV4_PpgL_RDB_L.prf
+IV4_PpgL_RDB_L
 --------------
 
 In class 4.4 profiles found 22 pdb chains
@@ -824,7 +824,7 @@ In class 4.4 profiles found 22 pdb chains
 Other found pdb chains not in RepeatsDB 1
 
 
-IV4_WD__RDB_C.prf
+IV4_WD__RDB_C
 --------------
 
 In class 3.2 profiles found 6 pdb chains
@@ -838,7 +838,7 @@ In class 4.4 profiles found 817 pdb chains
 Other found pdb chains not in RepeatsDB 2045
 
 
-IV4_WD_RDB_C.prf
+IV4_WD_RDB_C
 --------------
 
 In class 3.3 profiles found 13 pdb chains
@@ -852,7 +852,7 @@ In class 4.9 profiles found 4 pdb chains
 Other found pdb chains not in RepeatsDB 2100
 
 
-IV4_WD__RDB_L.prf
+IV4_WD__RDB_L
 --------------
 
 In class 3.3 profiles found 13 pdb chains
@@ -862,7 +862,7 @@ In class 4.4 profiles found 505 pdb chains
 Other found pdb chains not in RepeatsDB 1314
 
 
-IV4_WD_RDB_L.prf
+IV4_WD_RDB_L
 --------------
 
 In class 3.3 profiles found 13 pdb chains
@@ -872,7 +872,7 @@ In class 4.4 profiles found 809 pdb chains
 Other found pdb chains not in RepeatsDB 2057
 
 
-IV5_ABprism_RDB_C.prf
+IV5_ABprism_RDB_C
 --------------
 
 In class 4.5 profiles found 210 pdb chains
@@ -880,7 +880,7 @@ In class 4.5 profiles found 210 pdb chains
 Other found pdb chains not in RepeatsDB 78
 
 
-IV5_ABprism_RDB_L.prf
+IV5_ABprism_RDB_L
 --------------
 
 In class 4.5 profiles found 198 pdb chains
@@ -888,7 +888,7 @@ In class 4.5 profiles found 198 pdb chains
 Other found pdb chains not in RepeatsDB 21
 
 
-IV7_ABbarrel_RDB_C.prf
+IV7_ABbarrel_RDB_C
 --------------
 
 In class 3.2 profiles found 5 pdb chains
@@ -898,7 +898,7 @@ In class 4.7 profiles found 10 pdb chains
 Other found pdb chains not in RepeatsDB 715
 
 
-IV7_ABbarrel_RDB_L.prf
+IV7_ABbarrel_RDB_L
 --------------
 
 In class 4.7 profiles found 10 pdb chains
@@ -906,7 +906,7 @@ In class 4.7 profiles found 10 pdb chains
 Other found pdb chains not in RepeatsDB 60
 
 
-IV9_ABtrefoil_RDB_C.prf
+IV9_ABtrefoil_RDB_C
 --------------
 
 In class 4.1 profiles found 3 pdb chains
@@ -918,7 +918,7 @@ In class 4.9 profiles found 117 pdb chains
 Other found pdb chains not in RepeatsDB 311
 
 
-IV9_ABtrefoil_RDB_L.prf
+IV9_ABtrefoil_RDB_L
 --------------
 
 In class 4.1 profiles found 3 pdb chains
@@ -930,7 +930,7 @@ In class 4.9 profiles found 108 pdb chains
 Other found pdb chains not in RepeatsDB 95
 
 
-IV10_AlignedPrism_RDB_C.prf
+IV10_AlignedPrism_RDB_C
 --------------
 
 In class 3.3 profiles found 1 pdb chains
@@ -946,7 +946,7 @@ In class 4.10 profiles found 92 pdb chains
 Other found pdb chains not in RepeatsDB 375
 
 
-IV10_AlignedPrism_RDB_L.prf
+IV10_AlignedPrism_RDB_L
 --------------
 
 In class 4.1 profiles found 16 pdb chains
@@ -956,7 +956,7 @@ In class 4.10 profiles found 88 pdb chains
 Other found pdb chains not in RepeatsDB 180
 
 
-V1_ABeads_RDB_C.prf
+V1_ABeads_RDB_C
 --------------
 
 In class 5.1 profiles found 1 pdb chains
@@ -966,7 +966,7 @@ In class 5.3 profiles found 71 pdb chains
 Other found pdb chains not in RepeatsDB 180
 
 
-V1_ABeads_RDB_L.prf
+V1_ABeads_RDB_L
 --------------
 
 In class 5.1 profiles found 1 pdb chains
@@ -976,7 +976,7 @@ In class 5.3 profiles found 69 pdb chains
 Other found pdb chains not in RepeatsDB 105
 
 
-V2_BBeads_RDB_C.prf
+V2_BBeads_RDB_C
 --------------
 
 In class 5.2 profiles found 5 pdb chains
@@ -984,7 +984,7 @@ In class 5.2 profiles found 5 pdb chains
 Other found pdb chains not in RepeatsDB 239
 
 
-V2_BBeads_RDB_L.prf
+V2_BBeads_RDB_L
 --------------
 
 In class 5.2 profiles found 5 pdb chains
@@ -992,7 +992,7 @@ In class 5.2 profiles found 5 pdb chains
 Other found pdb chains not in RepeatsDB 239
 
 
-V3_ABBeads_RDB_C.prf
+V3_ABBeads_RDB_C
 --------------
 
 In class 5.1 profiles found 1 pdb chains
@@ -1002,7 +1002,7 @@ In class 5.3 profiles found 73 pdb chains
 Other found pdb chains not in RepeatsDB 291
 
 
-V3_ABBeads_RDB_L.prf
+V3_ABBeads_RDB_L
 --------------
 
 In class 5.1 profiles found 1 pdb chains
@@ -1012,7 +1012,7 @@ In class 5.3 profiles found 73 pdb chains
 Other found pdb chains not in RepeatsDB 159
 
 
-V4_BSandwichBeads_RDB_C.prf
+V4_BSandwichBeads_RDB_C
 --------------
 
 In class 3.3 profiles found 4 pdb chains
@@ -1026,7 +1026,7 @@ In class 5.5 profiles found 34 pdb chains
 Other found pdb chains not in RepeatsDB 79
 
 
-V4_BSandwich_RDB_L.prf
+V4_BSandwich_RDB_L
 --------------
 
 In class 3.3 profiles found 4 pdb chains
@@ -1072,7 +1072,7 @@ In class 5.5 profiles found 21 pdb chains
 Other found pdb chains not in RepeatsDB 57
 
 
-V5_ABSandwichBeads_RDB_C.prf
+V5_ABSandwichBeads_RDB_C
 --------------
 
 In class 3.3 profiles found 4 pdb chains
@@ -1086,7 +1086,7 @@ In class 5.5 profiles found 38 pdb chains
 Other found pdb chains not in RepeatsDB 59
 
 
-V5_ABSandwichBeads_RDB_L.prf
+V5_ABSandwichBeads_RDB_L
 --------------
 
 In class 3.3 profiles found 4 pdb chains
@@ -1128,6 +1128,4 @@ In class 5.4 profiles found 11 pdb chains
 In class 5.5 profiles found 48 pdb chains
 
 Other found pdb chains not in RepeatsDB 575
-
-
 
