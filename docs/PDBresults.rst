@@ -1104,7 +1104,7 @@ Representative `4gez <https://www.rcsb.org/structure/4gez>`_ chain H
 
 In class 4.4 profiles found 817 pdb chains
 
-Representative `1a0r <https://www.rcsb.org/structure/1a0r>`_ chain B
+Representative `2pm7 <https://www.rcsb.org/structure/2pm7>`_ chain B
 
 Other found pdb chains not in RepeatsDB 2045
 
@@ -1140,7 +1140,7 @@ Representative `3jcm <https://www.rcsb.org/structure/3jcm>`_ chain B
 
 In class 4.4 profiles found 505 pdb chains
 
-Representative `1a0r <https://www.rcsb.org/structure/1a0r>`_ chain B
+Representative `2pm7 <https://www.rcsb.org/structure/2pm7>`_ chain B
 
 Other found pdb chains not in RepeatsDB 1314
 
