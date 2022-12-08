@@ -3,15 +3,17 @@ Results of a search in PDB
 The following results are calculated based on RepeatsDB annotation and using all the PDB sequences. The search is done using pfsearch.
 
 III3_ANK_RDB_C.prf
-3.2 1
-3.3 689
-4.6 1
-Other findings not in RepeatsDB 1243
+------------------
+  3.2 1
+  3.3 689
+  4.6 1
+  Other findings not in RepeatsDB 1243
 
 III3_ANK_RDB_L.prf
-3.3 651
-4.6 1
-Other findings not in RepeatsDB 1103
+------------------
+  3.3 651
+  4.6 1
+  Other findings not in RepeatsDB 1103
 
 III3_ARM_RDB_C.prf
 3.3 301
