@@ -53,18 +53,20 @@ Class V: Beads on string
   
 The profiles can be classified by the structural classes and inside them you can identify the diferent profiles that are used to retrive some subclasses or PFam families. In the following lines we will present a description of each of them.
 
-Class 3:
---------
+Class III profiles descriptions:
+--------------------------------
 
 III3_ANK_RDB (Alpha solenoid): 
 
 Ankyrin repeats (ANK) are tandemly repeated modules of about 33 amino acids. They occur in a large number of functionally diverse proteins mainly from eukaryotes. The few known examples from prokaryotes and viruses may be the result of horizontal gene transfers [PMID:8108379]. Many ankyrin repeat regions are known to function as protein-protein interaction domains. The conserved fold of the ankyrin repeat unit is known from several crystal and solution structures, e.g. from: - p53-binding protein 53BP2 [PMID:8875926], - Cyclin-dependent kinase inhibitor p19Ink4d [PMID:9353127] , - Transcriptional regulator GABP-beta [PMID:9461436], - NF-kappaB inhibitory protein IkB-alpha[PMID:9865693]. It has been described as an L-shaped structure consisting of a beta-hairpin and two alpha-helices[PMID:8875926].
 
 
+
 III3_ARM_RDB (Alpha solenoid): 
 
 The armadillo (Arm) repeat is an approximately 40 amino acid long tandemly repeated sequence motif first identified in the Drosophila melanogaster segment polarity gene armadillo involved in signal transduction through wingless. Animal Arm-repeat proteins function in various processes, including intracellular signalling and cytoskeletal regulation, and include such proteins as beta-catenin, the junctional plaque protein plakoglobin, the adenomatous polyposis coli (APC) tumour suppressor protein, and the nuclear transport factor importin-alpha, amongst others. A subset of these proteins is conserved across eukaryotic kingdoms. In higher plants, some Arm-repeat proteins function in intracellular signalling like their mammalian counterparts, while others have novel functions.The 3-dimensional fold of an armadillo repeat is known from the crystal structure of beta-catenin, where the 12 repeats form a superhelix of alpha helices with three helices per unit. The cylindrical structure features a positively charged grove, which presumably interacts with the acidic surfaces of the known interaction partners of beta-catenin.
 
+.. image:: /images/pfwARM.png
 
 III3_HEAT_RDB (Alpha solenoid): 
 
