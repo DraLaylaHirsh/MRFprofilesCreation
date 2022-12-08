@@ -46,18 +46,6 @@ Creating a profile
 
    CreationProcess
 
-**************** 
-Created Profiles
-****************
-
-.. toctree::
-
-   DataDownload
-   Profiles
-   PDBresults
-   SomeResults
-   
-
 **********
 References
 **********
