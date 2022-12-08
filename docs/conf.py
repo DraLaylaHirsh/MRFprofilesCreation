@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = u'Final Report'
+project = u'MRF Profiles Creation'
 copyright = u'2022, Layla Hirsh'
 author = u'Layla Hirsh'
 author = u'Dr. Layla Hirsh (S), Dr. Andrey Kajava (P.I)'
