@@ -4,42 +4,59 @@ The following results are calculated based on RepeatsDB annotation and using all
 
 III3_ANK_RDB_C.prf
 ------------------
+
   3.2 1
   3.3 689
   4.6 1
+  
   Other findings not in RepeatsDB 1243
 
 III3_ANK_RDB_L.prf
 ------------------
+
   3.3 651
   4.6 1
   Other findings not in RepeatsDB 1103
 
 III3_ARM_RDB_C.prf
+------------------
+
 3.3 301
 Other findings not in RepeatsDB 311
 
 III3_ARM_RDB_L.prf
+------------------
+
 3.3 306
 Other findings not in RepeatsDB 248
 
 III3_HEAT_RDB_C.prf
+------------------
+
 3.3 229
 Other findings not in RepeatsDB 288
 
 III3_HEAT_RDB_L.prf
+------------------
+
 3.3 126
 Other findings not in RepeatsDB 136
 
 III3_IMB_RDB_C.prf
+------------------
+
 3.3 200
 Other findings not in RepeatsDB 499
 
 III3_IMB_RDB_L.prf
+------------------
+
 3.3 297
 Other findings not in RepeatsDB 248
 
 III3_PF00004
+------------------
+
 3.1 1
 3.2 101
 3.3 1
@@ -47,47 +64,69 @@ III3_PF00004
 Other findings not in RepeatsDB 103
 
 III3_PF00004_L
+------------------
+
 3.3 1
 4.4 2
 Other findings not in RepeatsDB 1
 
 III3_PF00244
+------------------
+
 3.3 25
 Other findings not in RepeatsDB 122
 
 III3_PF00244_L
+------------------
+
 3.3 24
 Other findings not in RepeatsDB 22
 
 III3_PF00310
+------------------
+
 3.3 7
 Other findings not in RepeatsDB 24
 
 III3_PF00310_L
+------------------
+
 3.3 3
 Other findings not in RepeatsDB 3
 
 III3_PF00400
+------------------
+
 3.3 106
 Other findings not in RepeatsDB 155
 
 III3_PF00400_L
+--------------
+
 3.3 5
 Other findings not in RepeatsDB 2
 
 III3_PF00575
+------------
+
 3.3 17
 Other findings not in RepeatsDB 143
 
 III3_PF00575_L
+--------------
+
 3.3 16
 Other findings not in RepeatsDB 18
 
 III3_PF00613
+------------
+
 3.3 7
 Other findings not in RepeatsDB 14
 
 III3_PF00613_L
+--------------
+
 3.3 7
 Other findings not in RepeatsDB 0
 
