@@ -94,16 +94,31 @@ AAA family proteins often perform chaperone-like functions that assist in the as
 
 III3_PF00244_RDB
 ----------------
+
+14-3-3 proteins are a family of conserved regulatory molecules that are expressed in all eukaryotic cells. 14-3-3 proteins have the ability to bind a multitude of functionally diverse signaling proteins, including kinases, phosphatases, and transmembrane receptors. More than 200 signaling proteins have been reported as 14-3-3 ligands. TPR like.
+
 III3_PF00310_RDB
 ----------------
-III3_PF00400_RDB
+
+Glutamine amidotransferases class-II. TPR like.
+
+III3_PF00400_RDB ( should be PF01603)
 ----------------
-III3_PF00575_RDB
+
+Methylation-regulated decommissioning of multimeric PP2A complexes. Designed Armadillo can be retrieved by this profile.
+
+III3_PF00575_RDB (should be TPR like)
 ----------------
-III3_PF00613_RDB
+Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit gamma isoform.
+
+III3_PF00613_RDB  (should be TPR like)
 ----------------
-III3_PF00794_RDB
+CLATHRIN HEAVY, Clathrin is a triskelion-shaped cytoplasmic protein that polymerizes into a polyhedral lattice on intracellular membranes to form protein-coated membrane vesicles. Lattice formation induces the sorting of membrane proteins during endocytosis and organelle biogenesis by interacting with membrane-associated adaptor molecules.
+
+III3_PF00794_RDB  (should be TPR like)
 ----------------
+Clathrin-coated vesicle formation is responsible for membrane traffic to and from the endocytic pathway during receptor-mediated endocytosis and organelle biogenesis, influencing how cells relate to their environment. Generating these vesicles involves self-assembly of clathrin molecules into a latticed coat on membranes that recruits receptors and organizes protein machinery necessary for budding. 
+
 III3_PF01036_RDB
 ----------------
 III3_PF01381_RDB
