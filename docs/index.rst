@@ -13,3 +13,11 @@ During this secondment, some profiles were created and here are the results of r
 .. note::
    This document was created during a REFRACT secondment made by Layla Hirsh at Andrey Kajava's laboratory 
    This project is under active development.
+
+**************** 
+Created Profiles
+****************
+
+.. toctree::
+
+   SomeResults
