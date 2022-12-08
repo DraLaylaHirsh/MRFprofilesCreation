@@ -1,5 +1,6 @@
 Classes Description
-====================
+*******************
+
 
 We are considering the structural classification as defined in RepeatsDB :
 
@@ -54,12 +55,13 @@ Class V: Beads on string
 The profiles can be classified by the structural classes and inside them you can identify the diferent profiles that are used to retrive some subclasses or PFam families. In the following lines we will present a description of each of them.
 
 Profiles Description
-====================
+********************
 
 Class III profiles descriptions:
---------------------------------
+=================================
 
 III3_ARM_RDB (Alpha solenoid): 
+--------------------------------
 
 The armadillo (Arm) repeat is an approximately 40 amino acid long tandemly repeated sequence motif first identified in the Drosophila melanogaster segment polarity gene armadillo involved in signal transduction through wingless. Animal Arm-repeat proteins function in various processes, including intracellular signalling and cytoskeletal regulation, and include such proteins as beta-catenin, the junctional plaque protein plakoglobin, the adenomatous polyposis coli (APC) tumour suppressor protein, and the nuclear transport factor importin-alpha, amongst others. A subset of these proteins is conserved across eukaryotic kingdoms. In higher plants, some Arm-repeat proteins function in intracellular signalling like their mammalian counterparts, while others have novel functions.The 3-dimensional fold of an armadillo repeat is known from the crystal structure of beta-catenin, where the 12 repeats form a superhelix of alpha helices with three helices per unit. The cylindrical structure features a positively charged grove, which presumably interacts with the acidic surfaces of the known interaction partners of beta-catenin.
 
