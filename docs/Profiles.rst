@@ -11,9 +11,9 @@ Class III: Elongated Structures
   
   Subclass 3 : Alpha Solenoids
   
-  Subclass 4 : 
+  Subclass 4 : Beta Spirals
   
-  Subclass 5 :
+  Subclass 5 : Antiparallel Beta Layer
   
 Class IV: Closed Structures
 ---------------------------
@@ -26,30 +26,30 @@ Class IV: Closed Structures
   
   Subclass 4 : Beta Propeller
   
-  Subclass 5 :
+  Subclass 5 : Alpha Beta Prism
   
-  Subclass 6 : 
+  Subclass 6 : Alpha Barrel
   
-  Subclass 7 :  
+  Subclass 7 : Alpha Beta Barrel 
   
-  Subclass 8 : 
+  Subclass 8 : Alpha Beta Propeller
   
-  Subclass 9 :  
+  Subclass 9 :  Alpha Beta Trefoil
   
-  Subclass 10 : 
+  Subclass 10 : Beta Prism
   
 Class V: Beads on string
 ------------------------
 
-  Subclass 1 : Tim Barrel
+  Subclass 1 : Alpha Beads
   
-  Subclass 2 : Beta Barrel
+  Subclass 2 : Beta Beads
   
-  Subclass 3 : Trefoil
+  Subclass 3 : Alpha Beta Beads
   
-  Subclass 4 : Beta Propeller
+  Subclass 4 : Alpha Beta Sandwich
   
-  Subclass 5 :
+  Subclass 5 : Beta Sandwich
   
 The profiles can be classified by the structural classes and inside them you can identify the diferent profiles that are used to retrive some subclasses or PFam families. In the following lines we will present a description of each of them.
 
@@ -60,7 +60,7 @@ III3_ANK_RDB (Alpha solenoid):
 
 Ankyrin repeats (ANK) are tandemly repeated modules of about 33 amino acids. They occur in a large number of functionally diverse proteins mainly from eukaryotes. The few known examples from prokaryotes and viruses may be the result of horizontal gene transfers [PMID:8108379]. Many ankyrin repeat regions are known to function as protein-protein interaction domains. The conserved fold of the ankyrin repeat unit is known from several crystal and solution structures, e.g. from: - p53-binding protein 53BP2 [PMID:8875926], - Cyclin-dependent kinase inhibitor p19Ink4d [PMID:9353127] , - Transcriptional regulator GABP-beta [PMID:9461436], - NF-kappaB inhibitory protein IkB-alpha[PMID:9865693]. It has been described as an L-shaped structure consisting of a beta-hairpin and two alpha-helices[PMID:8875926].
 
-
+.. image:: /images/pfwIII3_ANK.png
 
 III3_ARM_RDB (Alpha solenoid): 
 
@@ -72,14 +72,17 @@ III3_HEAT_RDB (Alpha solenoid):
 
 A HEAT repeat is a protein tandem repeat structural motif composed of two alpha helices linked by a short loop. HEAT repeats can form alpha solenoids, a type of solenoid protein domain found in a number of cytoplasmic proteins. The name "HEAT" is an acronym for four proteins in which this repeat structure is found: Huntingtin, elongation factor 3 (EF3), protein phosphatase 2A (PP2A), and the yeast kinase TOR1. HEAT repeats form extended superhelical structures which are often involved in intracellular transport; they are structurally related to armadillo repeats. The nuclear transport protein importin beta contains 19 HEAT repeats.
 
+.. image:: /images/pfwHEAT.png
 
 III3_IMB_RDB (Alpha solenoid):
 
-
+.. image:: /images/pfwImp.png
   
 III3_PF00004_RDB (Alpha solenoid): 
-AAA family proteins often perform chaperone-like functions that assist in the assembly, operation, or disassembly of protein complexes
-  [PMID:9927482]
+AAA family proteins often perform chaperone-like functions that assist in the assembly, operation, or disassembly of protein complexes [PMID:9927482]
+  
+.. image:: /images/pfwPF00004.png
+
   III3_PF00244_RDB
   III3_PF00310_RDB
   III3_PF00400_RDB
