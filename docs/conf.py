@@ -5,7 +5,7 @@
 project = u'Final Report'
 copyright = u'2022, Layla Hirsh'
 author = u'Layla Hirsh'
-author = u'Dr. Layla Hirsh (Secondee), Dr. Andrey Kajava (Principal Investigator)'
+author = u'Dr. Layla Hirsh (S), Dr. Andrey Kajava (P.I)'
 
 
 
