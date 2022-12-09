@@ -97,38 +97,62 @@ III3_PF00244_RDB
 
 14-3-3 proteins are a family of conserved regulatory molecules that are expressed in all eukaryotic cells. 14-3-3 proteins have the ability to bind a multitude of functionally diverse signaling proteins, including kinases, phosphatases, and transmembrane receptors. More than 200 signaling proteins have been reported as 14-3-3 ligands. TPR like.
 
+
 III3_PF00310_RDB
 ----------------
 
 Glutamine amidotransferases class-II. TPR like.
+
 
 III3_PF00400_RDB ( should be PF01603)
 ----------------
 
 Methylation-regulated decommissioning of multimeric PP2A complexes. Designed Armadillo can be retrieved by this profile.
 
+
 III3_PF00575_RDB (should be TPR like)
 ----------------
+
 Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit gamma isoform.
+
 
 III3_PF00613_RDB  (should be TPR like)
 ----------------
+
 CLATHRIN HEAVY, Clathrin is a triskelion-shaped cytoplasmic protein that polymerizes into a polyhedral lattice on intracellular membranes to form protein-coated membrane vesicles. Lattice formation induces the sorting of membrane proteins during endocytosis and organelle biogenesis by interacting with membrane-associated adaptor molecules.
+
 
 III3_PF00794_RDB  (should be TPR like)
 ----------------
+
 Clathrin-coated vesicle formation is responsible for membrane traffic to and from the endocytic pathway during receptor-mediated endocytosis and organelle biogenesis, influencing how cells relate to their environment. Generating these vesicles involves self-assembly of clathrin molecules into a latticed coat on membranes that recruits receptors and organizes protein machinery necessary for budding. 
 
-III3_PF01036_RDB
+
+III3_PF01036_RDB  (should be TPR like)
 ----------------
-III3_PF01381_RDB
+
+Outer membrane protein assembly factor BamD
+
+
+III3_PF01381_RDB  (should be TPR like)
 ----------------
-III3_PF01730_RDB
+PHOSPHOLIPASE A2-ACTIVATING PROTEIN, Structure and function of the PLAA/Ufd3-p97/Cdc48 complex.PLAA (ortholog of yeast Doa1/Ufd3, also know as human PLAP or phospholipase A2-activating protein) has been implicated in a variety of disparate biological processes that involve the ubiquitin system. It is linked to the maintenance of ubiquitin levels, but the mechanism by which it accomplishes this is unclear. 
+
+
+III3_PF01730_RDB  (should be TPR like)
 ----------------
+Alpha-soluble NSF attachment protein. Structure of 20S supercomplex determined by single particle cryoelectron microscopy (State II)
+
+
 III3_PF01851_RDB
 ----------------
+Proteasome/cyclosome repeat. A repetitive sequence in subunits of the 26S proteasome and 20S cyclosome (anaphase-promoting complex). Lupas A, Baumeister W, Hofmann K. Trends Biochem. Sci. 22, 195-6, (1997). 
+
+
 III3_PPTA_RDB
 ----------------
+4'-phosphopantetheinyl transferase superfamily. Members of this family transfers the 4'-phosphopantetheine (4'-PP) moiety from coenzyme A (CoA) to the invariant serine of Pfam:PF00550. This post-translational modification renders holo-ACP capable of acyl group activation via thioesterification of the cysteamine thiol of 4'-PP [PMID:7559576] . This superfamily consists of two subtypes: The ACPS type such as Swiss:P24224 and the Sfp type such as Swiss:P39135. The structure of the Sfp type is known [PMID:10581256], which shows the active site accommodates a magnesium ion. The most highly conserved regions of the alignment are involved in binding the magnesium ion.
+
 
 III3_PUF_RDB:
 -------------
@@ -150,54 +174,261 @@ The proteins in this family bind to DNA. Each repeat binds to a base pair in a p
 
 III3_TPR_RDB
 -------------
-
-#.. image:: /images/pfwTPR.png
-
-Class 4:  
-  IV1_PF00121_RDB
-  IV1_PF00150_RDB
-  IV1_PF00215_RDB
-  IV1_PF00248_RDB
-  IV1_PF00274_RDB
-  IV1_PF00278_RDB
-  IV1_PF00290_RDB
-  IV1_PF00478_RDB
-  IV1_PF01487_RDB
-  IV1_TimBarrel_RDB
-  IV1_TimBarrel2_RDB
-
-  IV1_TimBarrel3_RDB
-  IV1_TimBarrel4_RDB
-  IV1_TimBarrel5_RDB
-  IV1_TimBarrel8_RDB
-  IV10_AlignedPrism_RDB
-  IV2_Lipocalin_RDB
-  IV2_Osta_RDB
-  IV2_Porin1_RDB
-  IV2_Porin3_RDB
-  IV3_Btrefoil_RDB
-  IV4_Kelch__RDB
-  IV4_Kelch_RDB
-  IV4_PF10433_RDB
-  IV4_PF13360_RDB
-  IV4_PF13442_RDB
-  IV4_PF15899_RDB
-  IV4_PF18793_RDB
-  IV4_PF18811_RDB
-  IV4_Pizza_RDB
-  IV4_PpgL_RDB
-  IV4_WD__RDB
-  IV4_WD_RDB
-  IV5_ABprism_RDB
-  IV7_ABbarrel_RDB
-  IV9_ABtrefoil_RDB
+TETRATRICOPEPTIDE REPEATS OF PROTEIN.
+ 
   
-Class V:  
-  V1_ABeads_RDB
-  V2_BBeads_RDB
-  V3_ABBeads_RDB
-  V4_BSandwich_RDB
-  V5_ABSandwichBeads_RDB
-  V5_PF00047_RDB
-  V5_PF00084_RDB
-  V5_PF07679_RDB
+  
+Class IV profiles descriptions:
+===============================
+
+IV1_PF00121_RDB  (TIM Barrel)
+---------------  
+
+TRIOSEPHOSPHATE ISOMERASE, Q64E mutant of Triosephosphate isomerase from Plasmodium falciparum.
+  
+  
+IV1_PF00150_RDB (TIM Barrel)
+---------------  
+
+ENDOGLUCANASE B, Ancestral endocellulase Cel5A
+
+
+IV1_PF00215_RDB (TIM Barrel)
+---------------  
+
+Orotidine 5'-phosphate decarboxylase. Orotidine 5'-monophosphate decarboxylase from Sulfolobus solfataricus complexed with inhibitor BMP
+
+
+IV1_PF00248_RDB  (TIM Barrel)
+---------------  
+
+AFLATOXIN B1 ALDEHYDE REDUCTASE MEMBER 3. Human aflatoxin B1 aldehyde reductase member 3. 
+
+
+IV1_PF00274_RDB (TIM Barrel)
+---------------  
+
+Fructose-1,6-bisphosphate aldolase. Fructose-1,6-bisphosphate Schiff base intermediate in FBP aldolase 
+
+
+IV1_PF00278_RDB (TIM Barrel)
+---------------  
+
+ornithine decarboxylase. T. brucei ornithine decarboxylase bound to D-ornithine and to G418
+
+
+IV1_PF00290_RDB
+---------------  
+
+Tryptophan synthase alpha chain. Mostly designed proteins.
+
+
+IV1_PF00478_RDB  (TIM Barrel)
+---------------  
+
+Inosine-5'-monophosphate dehydrogenase. Inosine 5'-monophosphate dehydrogenase from Vibrio cholerae,
+
+
+IV1_PF01487_RDB (TIM Barrel)
+---------------  
+
+3-dehydroquinate dehydratase. Staphylococcus aureus type I 3-dehydroquinase
+
+
+IV1_TimBarrel_RDB (TIM Barrel)
+---------------  
+
+Deoxyribose-phosphate aldolase. 2-deoxy-D-ribose-5-phosphate aldolase catalysing asymmetric Michael addition reactions, Schiff base complex with cinnamaldehyde
+
+
+IV1_TimBarrel2_RDB  (TIM Barrel)
+---------------  
+
+Tryptophan synthase alpha chain. tryptophan synthase alpha-subunit from the psychrophile Shewanella frigidimarina K14-2
+
+
+IV1_TimBarrel3_RDB  (TIM Barrel)
+---------------  
+
+plastidial ribulose epimerase RPE1 from the model alga Chlamydomonas reinhardtii
+
+
+IV1_TimBarrel4_RDB  (TIM Barrel)
+---------------  
+
+N-acylamino acid racemase. Catalytic Racemization and Substrate Specificity of an N-Acylamino Acid Racemase Homologue from Deinococcus radiodurans
+
+
+IV1_TimBarrel5_RDB  (TIM Barrel) 
+---------------  
+
+Triosephosphate Isomerase.Staphylococcus Aureus triosephosphate isomerase complexed with glycerol-3-phosphate
+
+
+IV1_TimBarrel6_RDB (TIM Barrel) 
+---------------  
+
+TRIOSEPHOSPHATE ISOMERASE. the F96H mutant of Plasmodium falciparum triosephosphate isomerase
+
+
+IV2_Lipocalin_RDB
+---------------  
+
+ADIPOCYTE LIPID BINDING PROTEIN, Fatty acid-binding protein, adipocyte. Human adipocyte lipid-binding protein FABP4 in complex with 3-(4-methoxyphenyl) propionic acid
+
+
+IV2_Osta_RDB
+---------------  
+
+Voltage-dependent anion-selective channel. putative glycerol kinase-like proteins anchored on an array of voltage dependent anion channels in the outer mitochondrial membrane of pig sperm mitochondria.
+
+
+IV2_Porin1_RDB
+---------------  
+
+Outer membrane protein F. OmpF in I2.
+
+IV2_Porin3_RDB
+---------------  
+
+VOLTAGE-DEPENDENT ANION CHANNEL 2.  the Voltage Dependant Anion Channel 2 from zebrafish.
+
+
+IV3_Btrefoil_RDB
+---------------  
+
+CHYMOTRYPSIN INHIBITOR 3. WINGED BEAN CHYMOTRYPSIN INHIBITOR PROTEIN
+
+
+IV4_Kelch__RDB
+---------------  
+
+Kelch-like ECH-associated protein 1. the defects of human lung cancer somatic mutations in the repression activity of Keap1 on Nrf2
+
+
+IV4_Kelch_RDB
+---------------  
+
+KELCH-LIKE PROTEIN 2.kelch domain of human KLHL2 (Mayven).
+
+
+IV4_PF10433_RDB
+---------------  
+
+DNA damage-binding protein 1.the human DDB1-DCAF12 complex.
+
+
+IV4_PF13360_RDB
+---------------  
+
+Outer membrane protein assembly factor BamB.BamABCDE bound to substrate EspP class 3. 
+
+
+IV4_PF13442_RDB
+---------------  
+
+NITRITE REDUCTASE. The structures of nitrite reductase from Paracoccus denitrificans GB17 (NiR-Pd) and Pseudomonas aeruginosa (NiR-Pa) have been described for the oxidized and reduced state (Fülöp, V., Moir, J. W. B., Ferguson, S. J., and Hajdu, J. (1995) Cell 81, 369-377; Nurizzo, D
+
+
+IV4_PF15899_RDB
+---------------  
+
+Xyloglucanase. Catalytic domain from GH74 enzyme PoGH74 from Paenibacillus odorifer, apoenzyme
+
+
+IV4_PF18793_RDB
+---------------  
+
+Nitrous-oxide reductase.Pseudomonas stutzeri nitrous oxide reductase 
+
+
+IV4_PF18811_RDB
+---------------  
+
+Dipeptidyl peptidase 4. DPP-IV with Compound C3
+
+
+IV4_Pizza_RDB
+---------------  
+
+
+
+IV4_PpgL_RDB
+---------------  
+
+
+
+IV4_WD__RDB
+---------------  
+
+
+
+IV4_WD_RDB
+---------------  
+
+
+
+IV5_ABprism_RDB
+---------------  
+
+
+
+IV7_ABbarrel_RDB
+---------------  
+
+
+
+IV9_ABtrefoil_RDB
+---------------  
+
+
+IV10_AlignedPrism_RDB
+---------------  
+
+
+ 
+  
+Class V profiles descriptions:
+=================================
+
+
+V1_ABeads_RDB
+---------------  
+
+
+
+V2_BBeads_RDB
+---------------  
+
+
+
+V3_ABBeads_RDB
+---------------  
+
+
+
+V4_BSandwich_RDB
+---------------  
+
+
+
+V5_ABSandwichBeads_RDB
+---------------  
+
+
+
+V5_PF00047_RDB
+---------------  
+
+
+
+V5_PF00084_RDB
+---------------  
+
+
+
+V5_PF07679_RDB
+---------------  
+
+
+
