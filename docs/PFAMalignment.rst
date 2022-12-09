@@ -1,7 +1,7 @@
 Obtain a Pfam SEED as Sequence Alignment
 ========================================
 
-Instead of executing Steps 1, 2 and 3 of the :ref:`CreationProcess` you can obtain the sequence alignment from PFAM in InterPro.
+Instead of executing Steps 1, 2 and 3 of the :doc:`CreationProcess`  you can obtain the sequence alignment from PFAM in InterPro.
 To do so, go into https://www.ebi.ac.uk/interpro/. you can search the family you want, for example TPR, in the search by text area (second tab).
 TPRsearch.png
 
@@ -13,17 +13,17 @@ https://www.ebi.ac.uk/interpro/entry/pfam/PF20269/
 
 Click alignment as shown in image
 
-alignmentlink.png
+.. image:: /images/alignmentlink.png
 
 then click on the menu and choose SEED
 
-menu.png
+.. image:: /images/menu.png
 
-seed.png
+.. image:: /images/seed.png
 
 Then click on the download button that is up right, the downloaded file name would be PF20269.alignement.seed.gz inside this compress file you will find a SEED.ann file.
 You need to extract the initial file, then use belvu to open it and save it as msf with the correct name, like PF20269.msf.
-After this you are able to continue with the process of creating the profiles  :ref:`CProfile creation`.
+After this you are able to continue with the process of creating the profiles :doc:`CreationProcess` :ref:`Profile creation`.
 
 If you do not have belvu installed, just type 
 
