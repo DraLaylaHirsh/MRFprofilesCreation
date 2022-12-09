@@ -351,41 +351,49 @@ Dipeptidyl peptidase 4. DPP-IV with Compound C3
 IV4_Pizza_RDB
 ---------------  
 
+Pizza2-SR protein, Pizza7H protein, the computationally designed Pizza7 protein after heat treatment
 
 
 IV4_PpgL_RDB
 ---------------  
 
+Hypothetical bacterial 6-phosphogluconolactonase. putative 6-phosphogluconolactonase (BF1038) from Bacteroides fragilis. Periplasmic gluconolactonase, PpgL. Pseudomonas aeruginosa Periplasmic gluconolactonase.
 
 
 IV4_WD__RDB
 ---------------  
 
+WD repeat-containing protein 5.  human WD repeat domain 5 with compound
 
 
 IV4_WD_RDB
 ---------------  
 
+WD repeat-containing protein 5.  human WD repeat domain 5 with compound, Protein transport protein SEC13
 
 
 IV5_ABprism_RDB
 ---------------  
 
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase. MurA (Asp305Ala) liganded with tetrahedral reaction intermediate
 
 
 IV7_ABbarrel_RDB
 ---------------  
 
+TRANSLATION INITIATION FACTOR 6. M.JANNASCHII EIF6
 
 
 IV9_ABtrefoil_RDB
 ---------------  
 
+ENDO-1,4-BETA-D-XYLANASE.  Xylanase From Streptomyces Olivaceoviridis E-86 Complexed With 3(2)-alpha-L-arabinofuranosyl-xylotriose
+
 
 IV10_AlignedPrism_RDB
 ---------------  
 
-
+JACALIN ALPHA CHAIN, Agglutinin alpha chain, Galactose Binding lectin from Champedak (CGB) with Galactose
  
   
 Class V profiles descriptions:
