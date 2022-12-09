@@ -404,39 +404,47 @@ Class V profiles descriptions:
 V1_ABeads_RDB 
 +++++++++++++++
 
+Zinc finger 
+
 
 V2_BBeads_RDB
 +++++++++++++++  
 
+Major vault protein
 
 
 V3_ABBeads_RDB
 +++++++++++++++  
 
+zinc finger domain of Klf4 
 
 
 V4_BSandwich_RDB
 +++++++++++++++  
 
+Alpha-2-macroglobulin
 
 
 V5_ABSandwichBeads_RDB
 +++++++++++++++  
 
+COMPLEMENT C3 BETA CHAIN
 
 
 V5_PF00047_RDB
 +++++++++++++++  
 
+FAB light chain , the tudor domain of human TDRD3 in complex with an anti-TDRD3 FAB
 
 
 V5_PF00084_RDB
 +++++++++++++++  
 
+Complement decay-accelerating factor, E30 F-particle in complex with CD55
 
 
 V5_PF07679_RDB
 +++++++++++++++  
 
-
+Down Syndrome Cell Adhesion Molecule (DSCAM) isoform 1.30.30, N-terminal eight Ig domains. Down Syndrome Cell Adhesion Molecule (DSCAM) isoform 1.30.30, N-terminal eight Ig domains
 
