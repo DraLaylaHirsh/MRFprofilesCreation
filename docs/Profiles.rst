@@ -446,5 +446,5 @@ Complement decay-accelerating factor, E30 F-particle in complex with CD55
 V5_PF07679_RDB
 +++++++++++++++  
 
-Down Syndrome Cell Adhesion Molecule (DSCAM) isoform 1.30.30, N-terminal eight Ig domains. Down Syndrome Cell Adhesion Molecule (DSCAM) isoform 1.30.30, N-terminal eight Ig domains
+Down Syndrome Cell Adhesion Molecule (DSCAM) isoform 1.30.30, N-terminal eight Ig domains. 
 
