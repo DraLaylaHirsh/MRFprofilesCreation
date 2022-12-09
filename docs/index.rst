@@ -46,7 +46,7 @@ Creating a profile
 ******************
 
 .. toctree::
-
+   PFAMalignment
    CreationProcess
 
 **************** 
