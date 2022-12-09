@@ -1,6 +1,5 @@
 Profiles results using PDB
 ==========================
-
 III3_ANK_RDB_C.prf
 --------------
 
@@ -234,7 +233,7 @@ III3_PF00794
 
 In class 3.3 profiles found 15 pdb chains
 
-Representative `3lvh <https://www.rcsb.org/structure/3lvh>`_ chain B
+Representative `1b89 <https://www.rcsb.org/structure/1b89>`_ chain A
 
 Other found pdb chains not in RepeatsDB 50
 
@@ -244,7 +243,7 @@ III3_PF00794_L
 
 In class 3.3 profiles found 10 pdb chains
 
-Representative `3lvh <https://www.rcsb.org/structure/3lvh>`_ chain B
+Representative `1b89 <https://www.rcsb.org/structure/1b89>`_ chain A
 
 Other found pdb chains not in RepeatsDB 12
 
@@ -1104,7 +1103,7 @@ Representative `4gez <https://www.rcsb.org/structure/4gez>`_ chain H
 
 In class 4.4 profiles found 817 pdb chains
 
-Representative `2pm7 <https://www.rcsb.org/structure/2pm7>`_ chain B
+Representative `1a0r <https://www.rcsb.org/structure/1a0r>`_ chain B
 
 Other found pdb chains not in RepeatsDB 2045
 
@@ -1140,7 +1139,7 @@ Representative `3jcm <https://www.rcsb.org/structure/3jcm>`_ chain B
 
 In class 4.4 profiles found 505 pdb chains
 
-Representative `2pm7 <https://www.rcsb.org/structure/2pm7>`_ chain B
+Representative `1a0r <https://www.rcsb.org/structure/1a0r>`_ chain B
 
 Other found pdb chains not in RepeatsDB 1314
 
