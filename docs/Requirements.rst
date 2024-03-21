@@ -16,7 +16,7 @@ To install pftools you can go to `GitHub Pftools3 <https://github.com/sib-swiss/
     $sudo apt-get install pftools
     
     
-To obtain a more acurate score for the profiles we use autoscaling over the builded profiles. Thw autoscaling software can be downloaded `here <https://github.com/sib-swiss/pftools3/>`_.You will need to edit the autoscaling.pl file and modify the $dbpath with the complete path of the scaling folder is.
+To obtain a more acurate score for the profiles we use autoscaling over the builded profiles. The autoscaling software can be downloaded `here <https://github.com/sib-swiss/pftools3/>`_.You will need to edit the autoscaling.pl file and modify the $dbpath with the complete path of the scaling folder is.
 For example, if the downloaded folder is in /home/mypc/Documents/ you will have to modify the $dbpath library inside this perl file to:
    
 .. code-block:: SetPath
